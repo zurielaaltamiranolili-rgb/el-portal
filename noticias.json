@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-27T16:45:30.020929+00:00",
+ "actualizado": "2026-10-27T21:38:40.989070+00:00",
  "noticias": [
   {
    "titulo": "Festival Agustín Lara 2026: Fecha y lugar de conciertos y exposiciones en Veracruz",
@@ -242,7 +242,7 @@
    "fecha": "2025-01-21T00:08:00+00:00",
    "categoria": "Cultura",
    "url": "https://lasillarota.com/veracruz/estado/2025/1/21/ado-programa-viajes-para-las-fiestas-de-la-candelaria-en-tlacotalpan-rutas-horarios-precios-431170.html",
-   "imagen": ""
+   "imagen": "https://img.lasillarota.com/zwTqz5kfoZdfOEu9F5lAoHPSGfN9QKPZK2Da1oHiy08/rs:fill:1200:630:0/g:fp:0.5:0.5/f:jpg/aHR0cHM6Ly9hc3NldHMubGFzaWxsYXJvdGEuY29tL2ZvdG9ncmFmaWFzLzIwMjUvMS8yMS82ODkyMjcuanBn"
   },
   {
    "titulo": "Hallan cuerpo de joven en río de Veracruz; cayó de lancha cuando apoyaba afectados por inundaciones",
@@ -251,7 +251,7 @@
    "fecha": "2024-10-30T07:48:00+00:00",
    "categoria": "Comunidad",
    "url": "https://www.milenio.com/estados/hallan-cuerpo-joven-desaparecido-rio-papaloapan-veracruz",
-   "imagen": ""
+   "imagen": "https://cdn.milenio.com/uploads/media/2024/10/30/el-joven-fue-desaparecido-en.jpg"
   },
   {
    "titulo": "Inundación contenida en Tlacotalpan gracias a la unión de autoridades y ciudadanos",
@@ -260,7 +260,7 @@
    "fecha": "2024-10-28T06:39:00+00:00",
    "categoria": "Región",
    "url": "https://www.cronica.com.mx/estados/2024/10/28/inundacion-contenida-en-tlacotalpan-gracias-a-la-union-de-autoridades-y-ciudadanos/",
-   "imagen": ""
+   "imagen": "https://lacronicadehoy-lacronicadehoy-prod.web.arc-cdn.net/resizer/v2//resizer/frXLm5NbBekueFoY1YTeYuws7bs=/arc-photo-lacronicadehoy/arc2-prod/public/KQF5P6KHJRA47INYOUC4GE6LGA.jpg&width=1200"
   },
   {
    "titulo": "Tlacotalpan en riesgo: familias evacúan y autoridades colocan muro de contención",
@@ -269,7 +269,7 @@
    "fecha": "2024-10-25T07:54:00+00:00",
    "categoria": "Región",
    "url": "https://lasillarota.com/veracruz/estado/2024/10/25/tlacotalpan-en-riesgo-familias-evacuan-autoridades-colocan-muro-de-contencion-419263.html",
-   "imagen": ""
+   "imagen": "https://img.lasillarota.com/rY9Dpx2l65MKhjXWU2JTYv3AxY1TFmHwis7i16vHv5c/rs:fill:1200:630:0/g:fp:0.5:0.5/f:jpg/aHR0cHM6Ly9hc3NldHMubGFzaWxsYXJvdGEuY29tL2ZvdG9ncmFmaWFzLzIwMjQvMTAvMjUvNjU1Njc2LmpwZw"
   },
   {
    "titulo": "Tlacotalpan se cae a pedazos: así lucen los edificios del Pueblo Mágico y Patrimonio de la Humanidad",
@@ -287,7 +287,7 @@
    "fecha": "2024-05-16T04:04:00+00:00",
    "categoria": "Región",
    "url": "https://www.milenio.com/politica/comunidad/laguna-de-cosamaloapan-en-puebla-al-borde-de-la-extincion",
-   "imagen": ""
+   "imagen": "https://cdn.milenio.com/uploads/media/2024/05/16/laguna-de-cosamaloapan-melanie-torres.jpg"
   },
   {
    "titulo": "¿Qué pasó en la autopista La Tinaja-Cosamaloapan? Chocan dos tráileres entre sí y causan fuerte incendio",
@@ -296,7 +296,7 @@
    "fecha": "2024-04-14T09:48:00+00:00",
    "categoria": "Región",
    "url": "https://www.sdpnoticias.com/estados/veracruz/que-paso-en-la-autopista-la-tinaja-cosamaloapan-chocan-dos-traileres-entre-si-y-causan-fuerte-incendio/",
-   "imagen": ""
+   "imagen": "https://www.sdpnoticias.com/resizer/v2/7KGHKZJSPZH67JYNG33M5EX4BA.png?smart=true&auth=907eb44d2aa1097e5e003b55c47a26fe9bcd542b78810b58a517c5c9006eb557&width=1200&height=628"
   },
   {
    "titulo": "Migrantes se desplazan por la Cuenca del Papaloapan, Veracruz",
@@ -305,7 +305,7 @@
    "fecha": "2021-12-03T06:23:00+00:00",
    "categoria": "Región",
    "url": "https://www.milenio.com/estados/veracruz-migrantes-se-desplazan-por-la-cuenca-del-papaloapan",
-   "imagen": ""
+   "imagen": "https://cdn.milenio.com/uploads/media/2021/12/03/pasa-caravana-migrante-por-la.jpg"
   },
   {
    "titulo": "Así relajó medidas Cosamaloapan, tercer municipio con más casos covid",
@@ -314,7 +314,7 @@
    "fecha": "2020-07-26T10:22:00+00:00",
    "categoria": "Comunidad",
    "url": "https://lasillarota.com/veracruz/2020/7/26/asi-relajo-medidas-cosamaloapan-tercer-municipio-con-mas-casos-covid-206077.html",
-   "imagen": ""
+   "imagen": "https://img.lasillarota.com/OhpZb1PvR2xgAKBM5_D6QTdsMStbihEJvMIM9YESXbQ/rs:fill:1200:630:0/g:fp:0.5:0.5/f:jpg/aHR0cHM6Ly9hc3NldHMubGFzaWxsYXJvdGEuY29tL2ZvdG9ncmFmaWFzLzIwMjAvNy8yNi8yMjcxNjIuanBn"
   },
   {
    "titulo": "Qué hacer en Tlacotalpan, además de ir a la Fiesta de la Candelaria",
@@ -323,7 +323,7 @@
    "fecha": "2020-02-04T00:42:00+00:00",
    "categoria": "Cultura",
    "url": "https://www.eluniversal.com.mx/destinos/asi-es-la-fiesta-de-la-candelaria-en-tlacotalpan-veracruz/",
-   "imagen": ""
+   "imagen": "https://www.eluniversal.com.mx/resizer/v2/3T2PZJF5QRFHLDRV62MIC63P7Q.jpg?auth=undefined"
   },
   {
    "titulo": "Un viaje a la colorida Tlacotalpan",
