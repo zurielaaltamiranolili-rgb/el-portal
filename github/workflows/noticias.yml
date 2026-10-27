@@ -1,0 +1,19 @@
+name: Actualizar noticias
+on:
+  schedule: [{cron: "0 */3 * * *"}]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  bot:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: python bot/actualizar_noticias.py
+      - run: |
+          git config user.name "El Portal Bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add noticias.json
+          git diff --cached --quiet || (git commit -m "Actualizar noticias" && git push)
