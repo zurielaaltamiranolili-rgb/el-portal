@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="es"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>El Portal de Tlacotalpan</title>
+<style>
+:root{--c1:#47563A;--c2:#6B7A57;--c3:#A7B08E;--c4:#F3E9D6;--c5:#1F2A1C;--bg:#F3E9D6;--card:#FBF6EA;--tx:#1F2A1C;--mut:#5d6850;--ln:#d9cfb6;--ac:#47563A;--onac:#F3E9D6;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#1F2A1C;--card:#2a3727;--tx:#F3E9D6;--mut:#A7B08E;--ln:#3c4a37;--ac:#A7B08E;--onac:#1F2A1C}}
+:root[data-theme="dark"]{--bg:#1F2A1C;--card:#2a3727;--tx:#F3E9D6;--mut:#A7B08E;--ln:#3c4a37;--ac:#A7B08E;--onac:#1F2A1C}
+html{scroll-padding-top:70px;scroll-behavior:smooth}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--tx);font:16px/1.6 Georgia,"Times New Roman",serif}
+a{color:inherit;text-decoration:none}
+.w{max-width:1100px;margin:0 auto;padding:0 20px}
+header{position:sticky;top:0;z-index:20;background:var(--bg);border-bottom:1px solid var(--ln)}
+.bar{display:flex;align-items:center;justify-content:space-between;height:60px}
+.brand{font-weight:700;letter-spacing:.04em;color:var(--ac);font-size:18px}
+nav{display:flex;gap:22px;font:600 13px system-ui,sans-serif;text-transform:uppercase;letter-spacing:.08em}
+nav a:hover{color:var(--ac);text-decoration:underline}
+.ib{background:none;border:1px solid var(--ln);color:var(--tx);border-radius:8px;padding:6px 10px;cursor:pointer;font:14px system-ui}
+.menu{display:none}
+@media(max-width:720px){nav{display:none;position:absolute;top:60px;left:0;right:0;background:var(--bg);flex-direction:column;padding:16px 20px;border-bottom:1px solid var(--ln)}nav.open{display:flex}.menu{display:inline-block}}
+.hero{text-align:center;padding:36px 0 28px;border-bottom:1px solid var(--ln)}
+.hero img{width:min(300px,70vw);height:auto;mix-blend-mode:multiply;border-radius:6px}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .hero img{mix-blend-mode:normal}}
+:root[data-theme="dark"] .hero img{mix-blend-mode:normal}
+.hero p{max-width:560px;margin:8px auto 0;color:var(--mut);font-style:italic}
+.tools{display:flex;gap:12px;flex-wrap:wrap;align-items:center;margin:26px 0 8px}
+.tools input{flex:1;min-width:200px;padding:10px 14px;border:1px solid var(--ln);border-radius:999px;background:var(--card);color:var(--tx);font:15px system-ui}
+.chips{display:flex;gap:8px;flex-wrap:wrap}
+.chip{border:1px solid var(--c2);background:none;color:var(--tx);padding:6px 14px;border-radius:999px;cursor:pointer;font:600 13px system-ui}
+.chip.on{background:var(--ac);color:var(--onac);border-color:var(--ac)}
+h2{font-size:26px;margin:34px 0 14px;color:var(--ac)}
+.feat{display:grid;grid-template-columns:1.3fr 1fr;gap:0;background:var(--card);border:1px solid var(--ln);border-radius:14px;overflow:hidden;cursor:pointer}
+.feat .ph{min-height:260px}
+.feat div.t{padding:26px}
+@media(max-width:720px){.feat{grid-template-columns:1fr}.feat .ph{min-height:180px}}
+.ph{position:relative;overflow:hidden;background:linear-gradient(135deg,var(--c1),var(--c3));display:flex;align-items:flex-end;padding:14px;color:#F3E9D6;font:700 12px system-ui;letter-spacing:.1em;text-transform:uppercase}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:18px}
+.card{background:var(--card);border:1px solid var(--ln);border-radius:12px;overflow:hidden;cursor:pointer;transition:transform .15s}
+.card:hover{transform:translateY(-3px)}
+.card .ph{height:120px}
+.card .b{padding:16px}
+.tag{font:700 11px system-ui;letter-spacing:.1em;text-transform:uppercase;color:var(--ac)}
+h3{margin:6px 0;font-size:19px;line-height:1.3}
+.meta{font:13px system-ui;color:var(--mut)}
+.empty{color:var(--mut);padding:20px 0}
+dialog{border:1px solid var(--ln);border-radius:14px;background:var(--card);color:var(--tx);max-width:640px;width:calc(100% - 32px);padding:28px}
+dialog::backdrop{background:rgba(0,0,0,.55)}
+.two{display:grid;grid-template-columns:1fr 1fr;gap:28px}
+@media(max-width:720px){.two{grid-template-columns:1fr}}
+form{display:flex;flex-direction:column;gap:10px}
+form input,form textarea{padding:10px 12px;border:1px solid var(--ln);border-radius:8px;background:var(--card);color:var(--tx);font:15px system-ui}
+.btn{background:var(--ac);color:var(--onac);border:0;border-radius:8px;padding:11px 18px;font:700 14px system-ui;cursor:pointer}
+.ok{color:var(--ac);font:600 14px system-ui;min-height:20px}
+footer{margin-top:50px;background:var(--c5);color:var(--c4);padding:28px 0;text-align:center;font:14px system-ui}
+footer small{color:var(--c3)}
+.ph img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}.card .ph,.feat .ph{align-items:flex-end}a.card,a.feat{display:block;color:inherit}a.feat{display:grid}
+</style></head><body>
+<header><div class="w bar">
+<a href="#top" class="brand">EL PORTAL DE TLACOTALPAN</a>
+<nav id="nav"><a href="#noticias">Noticias</a><a href="#nosotros">Nosotros</a><a href="#boletin">Boletín</a><a href="#contacto">Contacto</a></nav>
+<span><button class="ib" id="th" aria-label="Cambiar tema">◐</button> <button class="ib menu" id="mn" aria-label="Menú">☰</button></span>
+</div></header>
+<main id="top">
+<section class="hero"><div class="w"><img src="logo.jpg" alt="Logotipo de El Portal, Tlacotalpan, Veracruz"><p>Las noticias, la cultura y la voz del Papaloapan.</p></div></section>
+<div class="w" id="noticias">
+<div class="tools"><input id="q" type="search" placeholder="Buscar noticias…" aria-label="Buscar"><div class="chips" id="chips"></div></div>
+<h2>Destacada</h2><div id="feat"></div>
+<h2>Últimas noticias <small id="upd" class="meta" style="font-weight:400"></small></h2><div class="grid" id="grid"></div><div class="empty" id="empty" hidden>No se encontraron noticias con ese criterio.</div>
+<h2 id="nosotros">Nosotros</h2>
+<p style="max-width:720px">El Portal de Tlacotalpan es un medio de comunicación dedicado a contar lo que ocurre en Tlacotalpan y su región: la vida comunitaria, la música y el son jarocho, las tradiciones, el río y las historias de su gente.</p>
+<div class="two"><div id="boletin"><h2 style="margin-top:20px">Boletín</h2><p class="meta">Recibe las noticias principales en tu correo.</p>
+<form id="fn"><input type="email" required placeholder="tu@correo.com" aria-label="Correo"><button class="btn">Suscribirme</button><div class="ok" id="okn"></div></form></div>
+<div id="contacto"><h2 style="margin-top:20px">Contacto</h2><p class="meta">¿Tienes una nota, denuncia o evento? Escríbenos.</p>
+<form id="fc"><input required placeholder="Nombre" aria-label="Nombre"><input type="email" required placeholder="Correo" aria-label="Correo"><textarea required rows="4" placeholder="Mensaje" aria-label="Mensaje"></textarea><button class="btn">Enviar</button><div class="ok" id="okc"></div></form></div></div>
+</div></main>
+<footer><div class="w">El Portal de Tlacotalpan · Tlacotalpan, Veracruz<br><small id="yr"></small></div></footer>
+<script>
+var N=[],cat="Todas",$=function(i){return document.getElementById(i)};
+function fd(s){var d=new Date(s);return isNaN(d)?"":d.toLocaleDateString("es-MX",{day:"numeric",month:"long",year:"numeric"})}
+function esc(s){return String(s||"").replace(/[&<>"]/g,function(m){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[m]})}
+function img(n){return n.imagen?'<img src="'+esc(n.imagen)+'" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">':''}
+function chips(){var cs=["Todas"].concat(N.map(function(n){return n.categoria}).filter(function(v,i,a){return a.indexOf(v)==i}));
+$("chips").innerHTML=cs.map(function(c){return '<button class="chip'+(c==cat?' on':'')+'" data-c="'+esc(c)+'">'+esc(c)+'</button>'}).join("")}
+function card(n,f){return '<a class="'+(f?'feat':'card')+'" href="'+esc(n.url)+'" target="_blank" rel="noopener"><div class="ph">'+esc(n.categoria)+img(n)+'</div><div class="'+(f?'t':'b')+'"><div class="tag">'+esc(n.categoria)+'</div><h3'+(f?' style="font-size:26px"':'')+'>'+esc(n.titulo)+'</h3><div class="meta">'+esc(n.fuente)+' · '+fd(n.fecha)+'</div>'+(f&&n.resumen?'<p>'+esc(n.resumen)+'</p>':'')+'</div></a>'}
+function render(){var q=$("q").value.toLowerCase();
+var L=N.filter(function(n){return(cat=="Todas"||n.categoria==cat)&&(n.titulo+" "+(n.resumen||"")).toLowerCase().indexOf(q)>-1});
+$("feat").innerHTML=L[0]?card(L[0],1):"";$("grid").innerHTML=L.slice(1).map(function(n){return card(n)}).join("");
+$("empty").hidden=L.length>0;chips()}
+document.addEventListener("click",function(e){var c=e.target.closest("[data-c]");if(c){cat=c.dataset.c;render()}});
+$("q").addEventListener("input",render);
+$("mn").onclick=function(){$("nav").classList.toggle("open")};
+$("nav").onclick=function(){$("nav").classList.remove("open")};
+$("th").onclick=function(){var r=document.documentElement,d=r.dataset.theme?r.dataset.theme=="dark":matchMedia("(prefers-color-scheme:dark)").matches;r.dataset.theme=d?"light":"dark"};
+function sub(f,o,m){$(f).onsubmit=function(e){e.preventDefault();$(o).textContent=m;this.reset()}}
+sub("fn","okn","¡Gracias por suscribirte!");sub("fc","okc","Mensaje recibido. Te responderemos pronto.");
+$("yr").textContent="© "+new Date().getFullYear()+" Todos los derechos reservados";
+fetch("noticias.json?"+Date.now()).then(function(r){return r.json()}).then(function(d){N=d.noticias||[];if(d.actualizado)$("upd").textContent="Actualizado: "+fd(d.actualizado);render()}).catch(function(){$("empty").hidden=false;$("empty").textContent="No se pudieron cargar las noticias. Abre el sitio desde un servidor (ver README)."});
+</script></body></html>
