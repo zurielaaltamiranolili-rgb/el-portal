@@ -1,1 +1,365 @@
-{"actualizado":"2026-10-27T12:00:00+00:00","noticias":[{"titulo":"Aquí aparecerán las noticias de la región cuando se ejecute el bot","fuente":"El Portal","fecha":"2026-10-27T12:00:00+00:00","categoria":"Región","url":"#","imagen":"","resumen":"Ejemplo inicial. El bot reemplaza este archivo automáticamente."}]}
+{
+ "actualizado": "2026-10-27T16:45:30.020929+00:00",
+ "noticias": [
+  {
+   "titulo": "Festival Agustín Lara 2026: Fecha y lugar de conciertos y exposiciones en Veracruz",
+   "resumen": "El encuentro tendrá como sedes el Centro Cultural del Sotavento, la Plazuela Agustín Lara y el Teatro Nezahualcóyotl, en Tlacotalpan, espacios donde se abordará la influencia del compositor en la ...",
+   "fuente": "Imagen de Veracruz",
+   "fecha": "2026-10-26T17:00:00+00:00",
+   "categoria": "Cultura",
+   "url": "https://imagendeveracruz.mx/espectaculos/festival-agustin-lara-2026-fecha-y-lugar-de-conciertos-y-exposiciones-en-veracruz-20261027-0003.html",
+   "imagen": "http://www.bing.com/th?id=ONUT.ZIAx2ppUBHH5HkzrmU1_Ew&pid=News"
+  },
+  {
+   "titulo": "Club Rotario busca recaudar fondos para donar tomógrafo a hospital de Cosamaloapan",
+   "resumen": "Con la participación de Mono Blanco y la orquesta Guayacán, la “Jarochada” se realizará el 4 de diciembre para recaudar fondos destinados a un tomógrafo que será donado al Hospital Regional de Cosamal ...",
+   "fuente": "Imagen de Veracruz",
+   "fecha": "2026-10-26T14:33:00+00:00",
+   "categoria": "Región",
+   "url": "https://imagendeveracruz.mx/veracruz/club-rotario-busca-recaudar-fondos-para-donar-tomografo-a-hospital-de-cosamaloapan-20261026-0076.html",
+   "imagen": "http://www.bing.com/th?id=ONUT.y-l112cbeE3HdCd7_UGdqw&pid=News"
+  },
+  {
+   "titulo": "Sin tomógrafo en Cosamaloapan, pacientes viajan hasta dos horas por estudio",
+   "resumen": "El Hospital General de Cosamaloapan necesita un tomógrafo para evitar que pacientes tengan que ser trasladados hasta otros municipios o incluso al ...",
+   "fuente": "MEGANOTICIAS",
+   "fecha": "2026-10-26T14:12:00+00:00",
+   "categoria": "Región",
+   "url": "https://www.meganoticias.mx/veracruz/noticia/sin-tom%C3%B3grafo-en-cosamaloapan-pacientes-viajan-hasta-dos-horas-por-estudio/782601",
+   "imagen": "http://www.bing.com/th?id=ONUT.KwJ3cgwnPsT4an48zRiPqQ&pid=News"
+  },
+  {
+   "titulo": "Club Rotario busca reunir fondos para comprar un tomógrafo y donarlo al Hospital Regional de Cosamaloapan",
+   "resumen": "Con una cena baile denominada “Jarochada”, el Club Rotario de Cosamaloapan busca recaudar recursos para adquirir un tomógrafo que será donado ...",
+   "fuente": "El Dictamen",
+   "fecha": "2026-10-26T13:38:00+00:00",
+   "categoria": "Región",
+   "url": "https://www.eldictamen.mx/club-rotario-busca-reunir-fondos-para-comprar-un-tomografo-y-donarlo-al-hospital-regional-de-cosamaloapan/",
+   "imagen": "https://www.eldictamen.mx/wp-content/uploads/2026/10/Club-Rotario-cena-1200x676.webp"
+  },
+  {
+   "titulo": "Invita SECVER al Festival Agustín Lara en Tlacotalpan y Boca del Río, los días 13 y 14 de noviembre",
+   "resumen": "Las actividades gratuitas incluyen conciertos, charlas, cine y la entrega de la medalla en honor a El Flaco de Oro. Xalapa, Ver., lunes 26 de octubre de 2026.- La Secretaría de Cultura de Veracruz (SE ...",
+   "fuente": "forocoatza",
+   "fecha": "2026-10-26T13:07:00+00:00",
+   "categoria": "Cultura",
+   "url": "https://forocoatza.com/noticias-locales/invita-secver-al-festival-agustin-lara-en-tlacotalpan-y-b0ca-del-ri0-l0s-dias-13-y-14-de-n0viembre/",
+   "imagen": "http://www.bing.com/th?id=ONUT.0SrMxgwvODxIZU9-sUH3FA&pid=News"
+  },
+  {
+   "titulo": "Mono Blanco y Guayacán llegarán a Cosamaloapan con Jarochada para reunir fondos para un tomógrafo",
+   "resumen": "El Club Rotario organizará una cena-baile el 4 de diciembre para recaudar recursos para comprar el equipo que necesita el Hospital Regional de Cosamaloapan y beneficiar a pacientes de 16 municipios ...",
+   "fuente": "OEM",
+   "fecha": "2026-10-26T11:28:00+00:00",
+   "categoria": "Región",
+   "url": "https://oem.com.mx/diariodexalapa/cultura/mono-blanco-y-guayacan-llegaran-a-cosamaloapan-con-jarochada-para-reunir-fondos-para-un-tomografo-32809136",
+   "imagen": ""
+  },
+  {
+   "titulo": "Oaxaca y Veracruz enfrentarán lunes de lluvias y chubascos; canales de baja presión mantienen bajo vigilancia a la Cuenca del Papaloapan",
+   "resumen": "➡️ El Servicio Meteorológico Nacional pronostica lluvias de 5 a 25 milímetros en Oaxaca y Veracruz, debido a canales de baja presión, inestabilidad atmosférica e ingreso de humedad; las precipitacione ...",
+   "fuente": "El Piñero",
+   "fecha": "2026-10-26T10:32:00+00:00",
+   "categoria": "Región",
+   "url": "https://www.elpinero.mx/oaxaca-y-veracruz-enfrentaran-lunes-de-lluvias-y-chubascos-canales-de-baja-presion-mantienen-bajo-vigilancia-a-la-cuenca-del-papaloapan/",
+   "imagen": "http://www.bing.com/th?id=ONUT.1Db3MIya5lKKA9lmPwhiuQ&pid=News"
+  },
+  {
+   "titulo": "Sismo de magnitud 3.8 sacude las cercanías de Cosamaloapan, Veracruz",
+   "resumen": "El Servicio Sismológico Nacional reportó un movimiento telúrico con epicentro al noroeste de la entidad veracruzana.",
+   "fuente": "El Heraldo de México",
+   "fecha": "2026-10-24T19:03:00+00:00",
+   "categoria": "Región",
+   "url": "https://heraldodemexico.com.mx/nacional/2026/10/24/sismo-de-magnitud-38-sacude-las-cercanias-de-cosamaloapan-veracruz-915481.html",
+   "imagen": "http://www.bing.com/th?id=ONUT.gwdG8OldSe_OVOjpvLQhiQ&pid=News"
+  },
+  {
+   "titulo": "Ana Paula, de Tlacotalpan, investiga el origen del pandero octagonal y busca preservar el son jarocho",
+   "resumen": "Ana Paula Rodríguez Palacios fue beneficiaria del PECDA 2025 con el proyecto “Que rezumbe el pandero”, dedicado a estudiar este instrumento tradicional de la región del Sotavento ...",
+   "fuente": "Imagen de Veracruz",
+   "fecha": "2026-10-24T14:31:00+00:00",
+   "categoria": "Cultura",
+   "url": "https://imagendeveracruz.mx/espectaculos/ana-paula-de-tlacotalpan-investiga-el-origen-del-pandero-octagonal-y-busca-preservar-el-son-jarocho-20261024-0046.html",
+   "imagen": "http://www.bing.com/th?id=ONUT.7ZD-8H9Mj1y33IadkzzzMA&pid=News"
+  },
+  {
+   "titulo": "Lluvias y tormentas eléctricas en Veracruz para el fin de semana; otros frentes fríos están en desarrollo",
+   "resumen": "En Veracruz prevén un ambiente templado a relativamente cálido durante el día y de fresco a frío por las noches y madrugadas. En gran parte del estado hay condiciones para lluvias, sobre todo en regio ...",
+   "fuente": "DIARIO DE ACAYUCAN",
+   "fecha": "2026-10-24T11:35:00+00:00",
+   "categoria": "Región",
+   "url": "http://diarioacayucan.com/lluvias-y-tormentas-electricas-en-veracruz-para-el-fin-de-semana-otros-frentes-frios-estan-en-desarrollo/",
+   "imagen": "http://diarioacayucan.com/wp-content/uploads/2026/10/Acayucan-Oluta-y-Soconusco-lluvias-1.jpg"
+  },
+  {
+   "titulo": "Oaxaca y Veracruz, bajo vigilancia por lluvias y tormentas este sábado; canales de baja presión amenazan con intensificar el mal tiempo en la Cuenca del Papaloapan",
+   "resumen": "➡️ El Servicio Meteorológico Nacional advierte que canales de baja presión e inestabilidad atmosférica favorecerán lluvias y chubascos en el oriente, sur y sureste de México, con posibles tormentas el ...",
+   "fuente": "El Piñero",
+   "fecha": "2026-10-24T04:35:00+00:00",
+   "categoria": "Región",
+   "url": "https://www.elpinero.mx/oaxaca-y-veracruz-bajo-vigilancia-por-lluvias-y-tormentas-este-sabado-canales-de-baja-presion-amenazan-con-intensificar-el-mal-tiempo-en-la-cuenca-del-papaloapan/",
+   "imagen": ""
+  },
+  {
+   "titulo": "Así estará el clima en Veracruz-Boca del Río este viernes 23 de octubre",
+   "resumen": "El paso del Frente Frío numero dos dejara vientos con rachas de hasta 70km/h y un ambiente fresco con sensación térmica de hasta 25° C.",
+   "fuente": "La Silla Rota",
+   "fecha": "2026-10-22T16:14:00+00:00",
+   "categoria": "Región",
+   "url": "https://lasillarota.com/veracruz/local/2026/10/22/asi-estara-el-clima-en-veracruz-boca-del-rio-este-viernes-23-de-octubre-534247.html",
+   "imagen": "http://www.bing.com/th?id=ONUT.PC7gRP_0n7eDDAkREFWRJQ&pid=News"
+  },
+  {
+   "titulo": "Veracruz: Pasan la charola en el Ayuntamiento de Cosamaloapan; alcalde pide dinero a funcionarios para festejos de Día de Muertos",
+   "resumen": "➡️ El documento, fechado el 14 de octubre, señala que la solicitud deriva de instrucciones del alcalde Jorge Alberto Villegas Cázares y de acuerdos con la Sindicatura y el Comité de Festejos. Redacció ...",
+   "fuente": "El Piñero",
+   "fecha": "2026-10-21T09:47:00+00:00",
+   "categoria": "Comunidad",
+   "url": "https://www.elpinero.mx/veracruz-pasan-la-charola-en-el-ayuntamiento-de-cosamaloapan-alcalde-pide-dinero-a-funcionarios-para-festejos-de-dia-de-muertos/",
+   "imagen": ""
+  },
+  {
+   "titulo": "Veracruz avanza hacia la recuperación tras lluvias; ríos Uxpanapa y Papaloapan, bajo vigilancia: Nahle",
+   "resumen": "Las labores para atender los daños ocasionados por las lluvias en el sur de Veracruz comienzan a enfocarse en la limpieza de zonas inundadas y el apoyo a las familias afectadas. Sin embargo, las ...",
+   "fuente": "Imagen del Golfo",
+   "fecha": "2026-10-20T13:23:00+00:00",
+   "categoria": "Región",
+   "url": "https://imagendelgolfo.mx/estado/veracruz-avanza-hacia-la-recuperacion-tras-lluvias-rios-uxpanapa-y-papaloapan-bajo-vigilancia-nahle-20261020-0047.html",
+   "imagen": "http://www.bing.com/th?id=ONUT.GibZqaRWN8kyWAh3YTzbVw&pid=News"
+  },
+  {
+   "titulo": "Bajan inundaciones en Coatzacoalcos, Agua Dulce y Nanchital; PC Nacional vigila aún niveles de ríos Uxpanapa y Papaloapan",
+   "resumen": "Protección Civil Estatal y Nacional mantienen la vigilancia sobre los ríos Uxpanapa y Papaloapan por el aumento de sus niveles.",
+   "fuente": "Imagen de Veracruz",
+   "fecha": "2026-10-20T11:06:00+00:00",
+   "categoria": "Región",
+   "url": "https://imagendeveracruz.mx/estado/bajan-inundaciones-en-coatzacoalcos-agua-dulce-y-nanchital-pc-nacional-vigila-aun-niveles-de-rios-uxpanapa-y-papaloapan-20261020-0050.html",
+   "imagen": "http://www.bing.com/th?id=ONUT.daeqgKwn2JBHF56Fbn9pcA&pid=News"
+  },
+  {
+   "titulo": "Patrulla del IPAX impacta a motociclista en la colonia El 42 de Cosamaloapan, Veracruz",
+   "resumen": "La mañana de este lunes se registró un aparatoso accidente automovilístico en el cruce de las prolongaciones de las calles Galeana y Porfirio Díaz, en la colonia El 42, el cual dejó como saldo una ...",
+   "fuente": "Imagen de Veracruz",
+   "fecha": "2026-10-19T15:25:00+00:00",
+   "categoria": "Seguridad",
+   "url": "https://imagendeveracruz.mx/policiaca/patrulla-del-ipax-impacta-a-motociclistaen-la-colonia-el-42-de-cosamaloapan-veracruz-20261019-0066.html",
+   "imagen": "http://www.bing.com/th?id=ONUT.MaV3wWMHwBOV6LmRmtX6ig&pid=News"
+  },
+  {
+   "titulo": "¿Quién es el laudero de Tlacotalpan que construyó la jarana para Claudia Sheinbaum?",
+   "resumen": "XALAPA, VER.- Este domingo 4 de octubre, la presidenta Claudia Sheinbaum Pardo recibió como obsequio una jarana tlacotalpeña durante su visita número 17 al estado de Veracruz. La entrega la hizo la ...",
+   "fuente": "lasillarota",
+   "fecha": "2026-10-05T07:05:00+00:00",
+   "categoria": "Región",
+   "url": "https://lasillarota.com/veracruz/vida/2026/10/5/quien-es-el-laudero-de-tlacotalpan-que-construyo-la-jarana-para-claudia-sheinbaum-531560.html",
+   "imagen": "https://img.lasillarota.com/mn2F92OAoyF4aPFRwT5JMYZ4G9LpmXJBB8pVrvusfuA/rs:fill:1200:630:1/g:fp:0.5:0.5/f:jpg/aHR0cHM6Ly9hc3NldHMubGFzaWxsYXJvdGEuY29tL2ltZy8xNzkxMjI3ODg1NzMzLWxleGRoNy5qcGc"
+  },
+  {
+   "titulo": "Monitorean Río Papaloapan Tras Desfogue en Presa Cerro de Oro en Veracruz",
+   "resumen": "Autoridades señalaron que las condiciones previstas no representan actualmente un escenario de riesgo para las comunidades ribereñas ...",
+   "fuente": "N+ Noticias",
+   "fecha": "2026-09-22T16:08:00+00:00",
+   "categoria": "Comunidad",
+   "url": "https://www.nmas.com.mx/veracruz/sociedad/conagua-realiza-desfogue-de-la-presa-cerro-de-oro-al-rio-papaloapan/",
+   "imagen": "https://static.nmas.com.mx/Nmas/cms/desfogue-presa-Cerro-de-Oro-Veracruz-1920x1080.jpg"
+  },
+  {
+   "titulo": "Nuevos autobuses Papaloapan: estas serán las 3 rutas en Cosamaloapan - Carlos A. Carrillo",
+   "resumen": "XALAPA, VER. - En conferencia de prensa de este martes 11 de agosto, Juan Enrique Santos Mendoza, secretario de la administración del fideicomiso en la modernización del transporte público en Veracruz ...",
+   "fuente": "lasillarota",
+   "fecha": "2026-08-12T02:30:00+00:00",
+   "categoria": "Región",
+   "url": "https://lasillarota.com/veracruz/estado/2026/8/12/nuevos-autobuses-papaloapan-estas-seran-las-3-rutas-en-cosamaloapan-carlos-a-carrillo-524226.html",
+   "imagen": "https://img.lasillarota.com/Cgb7uHZoGNhezeIAMcNIrCHlaCDGFvbGNIjpz1lKmn0/rs:fill:1200:630:0/g:fp:0.5:0.5/f:jpg/aHR0cHM6Ly9hc3NldHMubGFzaWxsYXJvdGEuY29tL2ltZy8xNzg2NTQ3Mjc1NzU1LW52Y3BpNC5qcGc"
+  },
+  {
+   "titulo": "Anuncian Mega Cabalgata en la Cuenca del Papaloapan",
+   "resumen": "La cuenca del Papaloapan será sede de la primera edición de la mega cabalgata “Todos Somos Cuenca”, un evento que busca fortalecer la identidad regional, promover la unidad entre los municipios de la ...",
+   "fuente": "imagendeveracruz",
+   "fecha": "2026-06-22T05:27:00+00:00",
+   "categoria": "Región",
+   "url": "https://imagendeveracruz.mx/veracruz/anuncian-mega-cabalgata-en-la-cuenca-del-papaloapan-20260622-0045.html",
+   "imagen": ""
+  },
+  {
+   "titulo": "Rocío Nahle anuncia autobuses Papaloapan en Carlos A. Carrillo - Cosamaloapan",
+   "resumen": "XALAPA, VER. - La gobernadora Rocío Nahle anunció la llegada de nuevos autobuses para municipios de la Cuenca del Papaloapan, esto como parte de la iniciativa de modernización del transporte público ...",
+   "fuente": "lasillarota",
+   "fecha": "2026-05-30T02:58:00+00:00",
+   "categoria": "Región",
+   "url": "https://lasillarota.com/veracruz/estado/2026/5/30/rocio-nahle-anuncia-autobuses-papaloapan-en-carlos-a-carrillo-cosamaloapan-512498.html",
+   "imagen": "https://img.lasillarota.com/44SFtTrdRhqX9H0BkUaZDOZgvbfdUdvNPDgcdK3KDfc/rs:fill:1200:630:0/g:fp:0.5:0.5/f:jpg/aHR0cHM6Ly9hc3NldHMubGFzaWxsYXJvdGEuY29tL2ZvdG9ncmFmaWFzLzIwMjYvNS8zMC84Njc0NTYuanBn"
+  },
+  {
+   "titulo": "Tlacotalpan reconoce y celebra a Don Fallo, pilar del son jarocho",
+   "resumen": "Tlacotalpan, Ver.— En el marco de las fiestas de La Candelaria, la ciudad ribereña rindió homenaje a uno de sus más emblemáticos exponentes de la música tradicional veracruzana durante el XLVII ...",
+   "fuente": "La Jornada Veracruz",
+   "fecha": "2026-02-03T10:07:00+00:00",
+   "categoria": "Cultura",
+   "url": "https://jornadaveracruz.com.mx/tlacotalpan-reconoce-y-celebra-a-don-fallo-pilar-del-son-jarocho/",
+   "imagen": "https://jornadaveracruz.com.mx/wp-content/uploads/2026/02/don-fallo.jpeg"
+  },
+  {
+   "titulo": "Tlacotalpan: una joya veracruzana que celebra sus tradiciones desde el cine en línea de la Universidad de Guanajuato",
+   "resumen": "La Universidad de Guanajuato (UG) invita al público a disfrutar desde casa del documental Tlacotalpan (1976), dirigido por Jaime Kuri Aiza, como parte del ciclo “Cine en línea para disfrutar en casa”, ...",
+   "fuente": "La Crónica de Hoy",
+   "fecha": "2025-10-06T10:22:00+00:00",
+   "categoria": "Cultura",
+   "url": "https://www.cronica.com.mx/academia/2025/10/06/tlacotalpan-una-joya-veracruzana-que-celebra-sus-tradiciones-desde-el-cine-en-linea-de-la-universidad-de-guanajuato/",
+   "imagen": "https://lacronicadehoy-lacronicadehoy-prod.web.arc-cdn.net/resizer/v2/F5FOKUINXJA2TNFLBPNHEPGAJM.jpg?auth=a64ca1ce00de6dc2e789c2e87da1cc5b218813e28f31bd67c1c77eaccdb5f06c&width=1200"
+  },
+  {
+   "titulo": "Así celebrarán los 100 años de vida de Elena Ramírez, bailadora tlacotalpeña",
+   "resumen": "XALAPA, VER.- Elena Ramírez Aguirre, mejor conocida como Mamá Elena o Doña Elena, es un referente de la preservación y difusión del baile tradicional de son jarocho en Tlacotalpan, municipio declarado ...",
+   "fuente": "lasillarota",
+   "fecha": "2025-08-10T21:58:00+00:00",
+   "categoria": "Cultura",
+   "url": "https://lasillarota.com/veracruz/estado/2025/8/11/asi-celebraran-los-100-anos-de-vida-de-elena-ramirez-bailadora-tlacotalpena-461402.html",
+   "imagen": "https://img.lasillarota.com/DkblSkz7TcihqOxeuTAnc3trkqi6GUa14oUzuCIBaJY/rs:fill:1200:630:0/g:fp:0.5:0.5/f:jpg/aHR0cHM6Ly9hc3NldHMubGFzaWxsYXJvdGEuY29tL2ZvdG9ncmFmaWFzLzIwMjUvOC8xMS83NzI3MjcuanBn"
+  },
+  {
+   "titulo": "Elena de la Luz Ramírez Aguirre, guardiana y bailarina del son jarocho, recibe Medalla Bellas Artes",
+   "resumen": "Medalla. Alejandra de la Garza, Nandy Luna Ramírez, quien recibió la Medalla en nombre de su abuela, y Haydee Boetto Bárcena. (Inbal) Elena de la Luz Ramírez Aguirre es la guardiana del zapateado de ...",
+   "fuente": "La Crónica de Hoy",
+   "fecha": "2025-05-21T19:00:00+00:00",
+   "categoria": "Cultura",
+   "url": "https://www.cronica.com.mx/cultura/2025/05/21/elena-de-la-luz-ramirez-aguirre-guardiana-y-bailarina-del-son-jarocho-recibe-medalla-bellas-artes/",
+   "imagen": "https://lacronicadehoy-lacronicadehoy-prod.web.arc-cdn.net/resizer/v2/5MPEWUOVJZHVLNDLBTYTG4WDIE.jpeg?auth=38c65fdccb9641b76f650fe6d0d325d44d3a80b9de6113b3b20a693260277910&width=1200"
+  },
+  {
+   "titulo": "Semana Santa 2025: Conoce Tlacotalpan, Veracruz, y enamórate del son jarocho",
+   "resumen": "Si deseas envolverte en música, folclor, cultura e historia en una ciudad de incomparable belleza arquitectónica a orillas del río de las Mariposas, visita Tlacotalpan durante este periodo vacacional ...",
+   "fuente": "imagendeveracruz",
+   "fecha": "2025-04-12T16:59:00+00:00",
+   "categoria": "Cultura",
+   "url": "https://imagendeveracruz.mx/estado/Semana-Santa-2025-Conoce-Tlacotalpan-Veracruz-y-enamorate-del-son-jarocho-20250413-0054.html",
+   "imagen": ""
+  },
+  {
+   "titulo": "ADO programa viajes para las Fiestas de la Candelaria en Tlacotalpan: rutas, horarios y precios",
+   "resumen": "XALAPA, VER.- Las fiestas de la Candelaria en Tlacotalpan, están a menos de dos semanas por dar inicio y además, de las empresas turísticas que brindan servicio de traslados para los próximos 31 de ...",
+   "fuente": "lasillarota",
+   "fecha": "2025-01-21T00:08:00+00:00",
+   "categoria": "Cultura",
+   "url": "https://lasillarota.com/veracruz/estado/2025/1/21/ado-programa-viajes-para-las-fiestas-de-la-candelaria-en-tlacotalpan-rutas-horarios-precios-431170.html",
+   "imagen": ""
+  },
+  {
+   "titulo": "Hallan cuerpo de joven en río de Veracruz; cayó de lancha cuando apoyaba afectados por inundaciones",
+   "resumen": "El joven Grebb Calvo Morteo, quien había desaparecido al caer de una lancha en el río Papaloapan el pasado fin de semana, fue hallado muerto cerca de la comunidad de Paso Real en Carlos A. Carrillo, ...",
+   "fuente": "Milenio",
+   "fecha": "2024-10-30T07:48:00+00:00",
+   "categoria": "Comunidad",
+   "url": "https://www.milenio.com/estados/hallan-cuerpo-joven-desaparecido-rio-papaloapan-veracruz",
+   "imagen": ""
+  },
+  {
+   "titulo": "Inundación contenida en Tlacotalpan gracias a la unión de autoridades y ciudadanos",
+   "resumen": "Puesto de Comando Ampliado de Tlacotalpan Responde a la emergencia hidrológica por la crecida del río Papaloapan (Secretaría de Protección Civil de Veracruz) Más de 600 costales de arena se han ...",
+   "fuente": "La Crónica de Hoy",
+   "fecha": "2024-10-28T06:39:00+00:00",
+   "categoria": "Región",
+   "url": "https://www.cronica.com.mx/estados/2024/10/28/inundacion-contenida-en-tlacotalpan-gracias-a-la-union-de-autoridades-y-ciudadanos/",
+   "imagen": ""
+  },
+  {
+   "titulo": "Tlacotalpan en riesgo: familias evacúan y autoridades colocan muro de contención",
+   "resumen": "TLACOTALPAN, VER.- Cuando la familia Cruz se durmió la noche del jueves 24 de octubre, el río Papaloapan tenía 36 horas sin subir su nivel, pero el pronóstico sobre su aumento se fue cumpliendo en el ...",
+   "fuente": "lasillarota",
+   "fecha": "2024-10-25T07:54:00+00:00",
+   "categoria": "Región",
+   "url": "https://lasillarota.com/veracruz/estado/2024/10/25/tlacotalpan-en-riesgo-familias-evacuan-autoridades-colocan-muro-de-contencion-419263.html",
+   "imagen": ""
+  },
+  {
+   "titulo": "Tlacotalpan se cae a pedazos: así lucen los edificios del Pueblo Mágico y Patrimonio de la Humanidad",
+   "resumen": "El laudero y músico Julio Corro, ganador del premio Grandes Maestros del Patrimonio Artesanal de México en 2022, reportó que en el centro del municipio de Tlacotalpan hay unos 30 edificios abandonados ...",
+   "fuente": "GrupoFórmula",
+   "fecha": "2024-07-22T17:00:00+00:00",
+   "categoria": "Región",
+   "url": "https://www.radioformula.com.mx/veracruz/Tlacotalpan-se-cae-a-pedazos-asi-lucen-los-edificios-del-Pueblo-Magico-y-Patrimonio-de-la-Humanidad-20240723-0063.html",
+   "imagen": ""
+  },
+  {
+   "titulo": "Advierten que laguna de Cosamaloapan está al borde de la extinción: \"Es una sequía tremenda\"",
+   "resumen": "La temporada de estiaje del 2024 se espera que sea una de las más agresivas desde que se hacen esta clase de registros en Puebla, ya que las temperaturas se mantienen en ascenso y el agua escasea cada ...",
+   "fuente": "Milenio",
+   "fecha": "2024-05-16T04:04:00+00:00",
+   "categoria": "Región",
+   "url": "https://www.milenio.com/politica/comunidad/laguna-de-cosamaloapan-en-puebla-al-borde-de-la-extincion",
+   "imagen": ""
+  },
+  {
+   "titulo": "¿Qué pasó en la autopista La Tinaja-Cosamaloapan? Chocan dos tráileres entre sí y causan fuerte incendio",
+   "resumen": "Alrededor del mediodía de hoy domingo14 de abril se registró un choque múltiple entre un tráiler, un camión tipo tortón y un vehículo particular sobre la autopista La Tinaja-Cosamaloapan, que provocó ...",
+   "fuente": "SDPnoticias",
+   "fecha": "2024-04-14T09:48:00+00:00",
+   "categoria": "Región",
+   "url": "https://www.sdpnoticias.com/estados/veracruz/que-paso-en-la-autopista-la-tinaja-cosamaloapan-chocan-dos-traileres-entre-si-y-causan-fuerte-incendio/",
+   "imagen": ""
+  },
+  {
+   "titulo": "Migrantes se desplazan por la Cuenca del Papaloapan, Veracruz",
+   "resumen": "Cientos de migrantes llegaron a Tierra Blanca, en la zona de la Cuenca del Papaloapan, en Veracruz. Los integrantes de esta caravana intentaron subirse al tren para seguir su camino por el país y, por ...",
+   "fuente": "Milenio",
+   "fecha": "2021-12-03T06:23:00+00:00",
+   "categoria": "Región",
+   "url": "https://www.milenio.com/estados/veracruz-migrantes-se-desplazan-por-la-cuenca-del-papaloapan",
+   "imagen": ""
+  },
+  {
+   "titulo": "Así relajó medidas Cosamaloapan, tercer municipio con más casos covid",
+   "resumen": "Xalapa, Ver. - Con una proporción de 203 casos por cada 100 mil personas, la Secretaría de Salud del Gobierno de Méxicoincluyó a Cosamaloapan de Carpio, Veracruz, en la lista de los 10 municipios con ...",
+   "fuente": "lasillarota",
+   "fecha": "2020-07-26T10:22:00+00:00",
+   "categoria": "Comunidad",
+   "url": "https://lasillarota.com/veracruz/2020/7/26/asi-relajo-medidas-cosamaloapan-tercer-municipio-con-mas-casos-covid-206077.html",
+   "imagen": ""
+  },
+  {
+   "titulo": "Qué hacer en Tlacotalpan, además de ir a la Fiesta de la Candelaria",
+   "resumen": "Durante los últimos días de enero y los primeros de febrero, Tlacotalpan, una pequeña y pintoresca población veracruzana a orillas del río Papaloapan, a solo 100 kilómetros del puerto de Veracruz y ...",
+   "fuente": "El Universal",
+   "fecha": "2020-02-04T00:42:00+00:00",
+   "categoria": "Cultura",
+   "url": "https://www.eluniversal.com.mx/destinos/asi-es-la-fiesta-de-la-candelaria-en-tlacotalpan-veracruz/",
+   "imagen": ""
+  },
+  {
+   "titulo": "Un viaje a la colorida Tlacotalpan",
+   "resumen": "— Cuando Juan Gabriel vino al pueblo paseó por sus calles al lado de Armando Vergara Mendiola, propietario del carrito de los helados “Nieves de Tlacotalpan”. Esto cuenta don Armando, siempre elegante ...",
+   "fuente": "El Universal",
+   "fecha": "2018-01-30T11:06:00+00:00",
+   "categoria": "Región",
+   "url": "https://www.eluniversal.com.mx/destinos/un-viaje-la-colorida-tlacotalpan/",
+   "imagen": ""
+  },
+  {
+   "titulo": "Ruta del son jarocho: De Veracruz a Tlacotalpan",
+   "resumen": "Según el cantor Agustín Lara, Veracruz es “un rinconcito donde hacen su nido las olas”. Caminar por el puerto es hacerlo a ritmo de marimba, así hasta llegar a Alvarado, una de las ciudades más ...",
+   "fuente": "mexicodesconocido.com.mx",
+   "fecha": "2017-06-01T03:08:00+00:00",
+   "categoria": "Cultura",
+   "url": "https://www.mexicodesconocido.com.mx/ruta-del-son-jarocho-de-veracruz-tlacotalpan.html",
+   "imagen": ""
+  },
+  {
+   "titulo": "La fortaleza del son jarocho y la versada, en Tlacotalpan",
+   "resumen": "Han transcurrido casi cuatro décadas desde el nacimiento del Encuentro de Jaraneros y Versadores, que se desarrolla en Tlacotalpan, Veracruz, a propósito de la Fiesta de la Candelaria, donde no sólo ...",
+   "fuente": "Milenio",
+   "fecha": "2017-02-01T06:48:00+00:00",
+   "categoria": "Cultura",
+   "url": "https://www.milenio.com/cultura/la-fortaleza-del-son-jarocho-y-la-versada-en-tlacotalpan",
+   "imagen": ""
+  },
+  {
+   "titulo": "Buscan recuperar son jarocho durante fiestas de Tlacotalpan",
+   "resumen": "Durante las tradicionales fiestas de La Candelaria en Tlacotalpan -que celebran la cultura de las tres raíces de los veracruzanos: indígena, española y africana- se llevarán a cabo una serie de ...",
+   "fuente": "El Universal",
+   "fecha": "2017-01-30T16:00:00+00:00",
+   "categoria": "Cultura",
+   "url": "https://www.eluniversal.com.mx/articulo/estados/2017/01/31/buscan-recuperar-son-jarocho-durante-fiestas-de-tlacotalpan/",
+   "imagen": ""
+  }
+ ]
+}
