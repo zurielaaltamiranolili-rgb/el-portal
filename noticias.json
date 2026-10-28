@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-28T11:53:02.779144+00:00",
+ "actualizado": "2026-10-28T17:41:41.443495+00:00",
  "noticias": [
   {
    "titulo": "Sancionan a empresa alcoholera por incumplir la Ley de Aguas Nacionales en Cosamaloapan",
@@ -9,6 +9,15 @@
    "categoria": "Región",
    "url": "https://www.msn.com/es-mx/noticias/mexico/sancionan-a-empresa-alcoholera-por-incumplir-la-ley-de-aguas-nacionales-en-cosamaloapan/ar-AA2gemOp",
    "imagen": ""
+  },
+  {
+   "titulo": "¡Lluvias acechan a Oaxaca y Veracruz! Alertan por chubascos y posibles afectaciones en la Cuenca del Papaloapan",
+   "resumen": "➡️ El Servicio Meteorológico Nacional prevé chubascos de 5 a 25 milímetros en ambos estados este martes 27 de octubre, debido a la combinación de canales de baja presión, humedad del Golfo de México y ...",
+   "fuente": "El Piñero",
+   "fecha": "2026-10-27T11:29:00+00:00",
+   "categoria": "Región",
+   "url": "https://www.elpinero.mx/lluvias-acechan-a-oaxaca-y-veracruz-alertan-por-chubascos-y-posibles-afectaciones-en-la-cuenca-del-papaloapan/",
+   "imagen": "http://www.bing.com/th?id=ONUT.fekWwGKE9RQ-jKgbp99tPw&pid=News"
   },
   {
    "titulo": "Festival Agustín Lara 2026: Fecha y lugar de conciertos y exposiciones en Veracruz",
@@ -182,6 +191,15 @@
    "imagen": "https://img.lasillarota.com/Cgb7uHZoGNhezeIAMcNIrCHlaCDGFvbGNIjpz1lKmn0/rs:fill:1200:630:0/g:fp:0.5:0.5/f:jpg/aHR0cHM6Ly9hc3NldHMubGFzaWxsYXJvdGEuY29tL2ltZy8xNzg2NTQ3Mjc1NzU1LW52Y3BpNC5qcGc"
   },
   {
+   "titulo": "Buque ARM Papaloapan regresa al puerto de Veracruz tras misión de instrucción en Estados Unidos",
+   "resumen": "El buque ARM Papaloapan (A-411) de la Secretaría de Marina (Semar) atracó en el muelle de la T en el puerto de Veracruz esto tras más de un mes de travesía e instrucción naval por aguas del Golfo de ...",
+   "fuente": "imagendeveracruz",
+   "fecha": "2026-07-18T03:41:00+00:00",
+   "categoria": "Región",
+   "url": "https://imagendeveracruz.mx/veracruz/buque-arm-papaloapan-regresa-al-puerto-de-veracruz-tras-mision-de-instruccion-en-estados-unidos-20260718-0029.html",
+   "imagen": ""
+  },
+  {
    "titulo": "Policías municipales de Cosamaloapan son acusados de asesinar a un albañil detenido",
    "resumen": "Veracruz, Ver. Elementos de la Policía Municipal de Cosamaloapan son acusados por familiares de Rafael Rendón Martínez, por presuntamente haberle causado la muerte luego de su detención durante un ...",
    "fuente": "La Jornada",
@@ -342,24 +360,6 @@
    "categoria": "Comunidad",
    "url": "https://lasillarota.com/veracruz/2020/7/26/asi-relajo-medidas-cosamaloapan-tercer-municipio-con-mas-casos-covid-206077.html",
    "imagen": "https://img.lasillarota.com/OhpZb1PvR2xgAKBM5_D6QTdsMStbihEJvMIM9YESXbQ/rs:fill:1200:630:0/g:fp:0.5:0.5/f:jpg/aHR0cHM6Ly9hc3NldHMubGFzaWxsYXJvdGEuY29tL2ZvdG9ncmFmaWFzLzIwMjAvNy8yNi8yMjcxNjIuanBn"
-  },
-  {
-   "titulo": "Qué hacer en Tlacotalpan, además de ir a la Fiesta de la Candelaria",
-   "resumen": "Durante los últimos días de enero y los primeros de febrero, Tlacotalpan, una pequeña y pintoresca población veracruzana a orillas del río Papaloapan, a solo 100 kilómetros del puerto de Veracruz y ...",
-   "fuente": "El Universal",
-   "fecha": "2020-02-04T00:42:00+00:00",
-   "categoria": "Cultura",
-   "url": "https://www.eluniversal.com.mx/destinos/asi-es-la-fiesta-de-la-candelaria-en-tlacotalpan-veracruz/",
-   "imagen": "https://www.eluniversal.com.mx/resizer/v2/3T2PZJF5QRFHLDRV62MIC63P7Q.jpg?auth=undefined"
-  },
-  {
-   "titulo": "Un viaje a la colorida Tlacotalpan",
-   "resumen": "— Cuando Juan Gabriel vino al pueblo paseó por sus calles al lado de Armando Vergara Mendiola, propietario del carrito de los helados “Nieves de Tlacotalpan”. Esto cuenta don Armando, siempre elegante ...",
-   "fuente": "El Universal",
-   "fecha": "2018-01-30T11:06:00+00:00",
-   "categoria": "Región",
-   "url": "https://www.eluniversal.com.mx/destinos/un-viaje-la-colorida-tlacotalpan/",
-   "imagen": "https://www.eluniversal.com.mx/resizer/v2/M7JQPY536VAW3F3SWDLDRZ4G7I.jpg?auth=undefined"
   }
  ]
 }
