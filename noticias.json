@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-27T21:38:40.989070+00:00",
+ "actualizado": "2026-10-28T03:14:18.935590+00:00",
  "noticias": [
   {
    "titulo": "Festival Agustín Lara 2026: Fecha y lugar de conciertos y exposiciones en Veracruz",
@@ -332,7 +332,7 @@
    "fecha": "2018-01-30T11:06:00+00:00",
    "categoria": "Región",
    "url": "https://www.eluniversal.com.mx/destinos/un-viaje-la-colorida-tlacotalpan/",
-   "imagen": ""
+   "imagen": "https://www.eluniversal.com.mx/resizer/v2/M7JQPY536VAW3F3SWDLDRZ4G7I.jpg?auth=undefined"
   },
   {
    "titulo": "Ruta del son jarocho: De Veracruz a Tlacotalpan",
@@ -341,7 +341,7 @@
    "fecha": "2017-06-01T03:08:00+00:00",
    "categoria": "Cultura",
    "url": "https://www.mexicodesconocido.com.mx/ruta-del-son-jarocho-de-veracruz-tlacotalpan.html",
-   "imagen": ""
+   "imagen": "https://www.mexicodesconocido.com.mx/sites/default/files/styles/adaptive/public/fichas-destino/portada_2_1.jpg"
   },
   {
    "titulo": "La fortaleza del son jarocho y la versada, en Tlacotalpan",
@@ -350,7 +350,7 @@
    "fecha": "2017-02-01T06:48:00+00:00",
    "categoria": "Cultura",
    "url": "https://www.milenio.com/cultura/la-fortaleza-del-son-jarocho-y-la-versada-en-tlacotalpan",
-   "imagen": ""
+   "imagen": "https://cdn.milenio.com/uploads/media/2017/02/01/a-tlacotalpan-llegan-musicos-de.jpeg"
   },
   {
    "titulo": "Buscan recuperar son jarocho durante fiestas de Tlacotalpan",
@@ -359,7 +359,7 @@
    "fecha": "2017-01-30T16:00:00+00:00",
    "categoria": "Cultura",
    "url": "https://www.eluniversal.com.mx/articulo/estados/2017/01/31/buscan-recuperar-son-jarocho-durante-fiestas-de-tlacotalpan/",
-   "imagen": ""
+   "imagen": "https://www.eluniversal.com.mx/resizer/v2/UNVTHCL4WRDXFNNRQPOQO6S77E.jpg?auth=undefined"
   }
  ]
 }
