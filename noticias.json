@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-29T03:39:26.799984+00:00",
+ "actualizado": "2026-10-29T12:00:14.973101+00:00",
  "noticias": [
   {
    "titulo": "¡MULTAN A LA ALCOHOLERA! - DE COSAMALOAPAN!",
@@ -191,6 +191,15 @@
    "imagen": "http://www.bing.com/th?id=ONUT.MaV3wWMHwBOV6LmRmtX6ig&pid=News"
   },
   {
+   "titulo": "Choque frontal de motos deja heridos a Erick y Benito, en Cosamaloapan, Veracruz",
+   "resumen": "Erick Yahir Zamudio León, de 28 años, y Benito Palacios Santos, de 58, fueron trasladados a distintos hospitales tras el accidente ocurrido en el bulevar San Cristóbal; ambos viajaban sin casco ...",
+   "fuente": "Imagen de Veracruz",
+   "fecha": "2026-10-16T19:20:00+00:00",
+   "categoria": "Seguridad",
+   "url": "https://imagendeveracruz.mx/policiaca/choque-frontal-de-motos-deja-heridos-a-erick-y-benito-en-cosamaloapan-veracruz-20261016-0096.html",
+   "imagen": "http://www.bing.com/th?id=ONUT.9jkq3i9hDZPl6tUfRBsTvA&pid=News"
+  },
+  {
    "titulo": "“No te vayas a enfermar”: trabajadores del IMSS marchan en Cosamaloapan por falta de insumos y aumento salarial",
    "resumen": "Más de 300 empleados del Hospital General de Zona No. 35 protestaron contra el incremento salarial propuesto, el desabasto de medicamentos y materiales médicos, así como la falta de representación sin ...",
    "fuente": "Imagen de Veracruz",
@@ -351,15 +360,6 @@
    "categoria": "Región",
    "url": "https://www.cronica.com.mx/estados/2024/10/28/inundacion-contenida-en-tlacotalpan-gracias-a-la-union-de-autoridades-y-ciudadanos/",
    "imagen": "https://lacronicadehoy-lacronicadehoy-prod.web.arc-cdn.net/resizer/v2//resizer/frXLm5NbBekueFoY1YTeYuws7bs=/arc-photo-lacronicadehoy/arc2-prod/public/KQF5P6KHJRA47INYOUC4GE6LGA.jpg&width=1200"
-  },
-  {
-   "titulo": "Tlacotalpan en riesgo: familias evacúan y autoridades colocan muro de contención",
-   "resumen": "TLACOTALPAN, VER.- Cuando la familia Cruz se durmió la noche del jueves 24 de octubre, el río Papaloapan tenía 36 horas sin subir su nivel, pero el pronóstico sobre su aumento se fue cumpliendo en el ...",
-   "fuente": "lasillarota",
-   "fecha": "2024-10-25T07:54:00+00:00",
-   "categoria": "Región",
-   "url": "https://lasillarota.com/veracruz/estado/2024/10/25/tlacotalpan-en-riesgo-familias-evacuan-autoridades-colocan-muro-de-contencion-419263.html",
-   "imagen": "https://img.lasillarota.com/rY9Dpx2l65MKhjXWU2JTYv3AxY1TFmHwis7i16vHv5c/rs:fill:1200:630:0/g:fp:0.5:0.5/f:jpg/aHR0cHM6Ly9hc3NldHMubGFzaWxsYXJvdGEuY29tL2ZvdG9ncmFmaWFzLzIwMjQvMTAvMjUvNjU1Njc2LmpwZw"
   }
  ]
 }
