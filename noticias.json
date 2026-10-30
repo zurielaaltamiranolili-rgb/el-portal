@@ -1,6 +1,24 @@
 {
- "actualizado": "2026-10-30T17:30:04.891659+00:00",
+ "actualizado": "2026-10-30T21:50:05.768398+00:00",
  "noticias": [
+  {
+   "titulo": "Inaugura Nahle arranque del servicio Papaloapan",
+   "resumen": "El Heraldo de Veracruz – noticias Zona Centro locales, policiacas y opinión desde Veracruz, Un periódico del Grupo Editorial Sánchez. Sección Zona Centro ...",
+   "fuente": "El Heraldo de Veracruz",
+   "fecha": "2026-10-30T12:07:00+00:00",
+   "categoria": "Región",
+   "url": "https://elheraldodeveracruz.com.mx/estatal/114175-inaugura-nahle-arranque-del-servicio-papaloapan.html",
+   "imagen": "http://www.bing.com/th?id=ONUT.kZiit7rpgKxDlrfrL3kTgA&pid=News"
+  },
+  {
+   "titulo": "Servicio Papaloapan inicia operaciones con 6 autobuses híbridos para conectar la Cuenca",
+   "resumen": "El Servicio Papaloapan inició operaciones con seis autobuses híbridos para conectar Carlos A. Carrillo, Cosamaloapan y comunidades cercanas.",
+   "fuente": "Jornada Veracruz",
+   "fecha": "2026-10-30T10:18:00+00:00",
+   "categoria": "Comunidad",
+   "url": "https://jornadaveracruz.com.mx/servicio-papaloapan-autobuses-hibridos-cuenca-veracruz/",
+   "imagen": "http://www.bing.com/th?id=ONUT.tTfhm9p2vwNauBgZ9Wrcjg&pid=News"
+  },
   {
    "titulo": "Inicia operaciones el servicio Papaloapan para movilizar a 60 mil ciudadanos",
    "resumen": "Seis autobuses híbridos comenzaron a operar el jueves 29 de octubre en tres rutas de transporte público entre Cosamaloapan y Carlos A.",
@@ -341,24 +359,6 @@
    "fecha": "2026-07-18T03:41:00+00:00",
    "categoria": "Región",
    "url": "https://imagendeveracruz.mx/veracruz/buque-arm-papaloapan-regresa-al-puerto-de-veracruz-tras-mision-de-instruccion-en-estados-unidos-20260718-0029.html",
-   "imagen": ""
-  },
-  {
-   "titulo": "Policías municipales de Cosamaloapan son acusados de asesinar a un albañil detenido",
-   "resumen": "Veracruz, Ver. Elementos de la Policía Municipal de Cosamaloapan son acusados por familiares de Rafael Rendón Martínez, por presuntamente haberle causado la muerte luego de su detención durante un ...",
-   "fuente": "La Jornada",
-   "fecha": "2026-07-14T19:31:00+00:00",
-   "categoria": "Seguridad",
-   "url": "https://www.jornada.com.mx/noticia/2026/07/14/estados/policias-municipales-de-cosamaloapan-son-acusados-de-asesinar-a-un-albanil-detenido",
-   "imagen": ""
-  },
-  {
-   "titulo": "Anuncian Mega Cabalgata en la Cuenca del Papaloapan",
-   "resumen": "La cuenca del Papaloapan será sede de la primera edición de la mega cabalgata “Todos Somos Cuenca”, un evento que busca fortalecer la identidad regional, promover la unidad entre los municipios de la ...",
-   "fuente": "imagendeveracruz",
-   "fecha": "2026-06-22T05:27:00+00:00",
-   "categoria": "Región",
-   "url": "https://imagendeveracruz.mx/veracruz/anuncian-mega-cabalgata-en-la-cuenca-del-papaloapan-20260622-0045.html",
    "imagen": ""
   }
  ]
