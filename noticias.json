@@ -1,6 +1,24 @@
 {
- "actualizado": "2026-10-30T09:19:46.648078+00:00",
+ "actualizado": "2026-10-30T17:30:04.891659+00:00",
  "noticias": [
+  {
+   "titulo": "Inicia operaciones el servicio Papaloapan para movilizar a 60 mil ciudadanos",
+   "resumen": "Seis autobuses híbridos comenzaron a operar el jueves 29 de octubre en tres rutas de transporte público entre Cosamaloapan y Carlos A.",
+   "fuente": "El Dictamen",
+   "fecha": "2026-10-30T09:10:00+00:00",
+   "categoria": "Región",
+   "url": "https://www.eldictamen.mx/inicia-operaciones-el-servicio-papaloapan-para-movilizar-a-60-mil-ciudadanos/",
+   "imagen": "https://www.eldictamen.mx/wp-content/uploads/2026/10/Servicio-Papaloapan-1200x675.webp"
+  },
+  {
+   "titulo": "Arranca Servicio Papaloapan en esta zona de Veracruz",
+   "resumen": "Estado de Veracruz | Seis autobuses híbridos comenzaron a operar este jueves 29 de octubre en tres rutas de transporte público entre Cosamalo ...",
+   "fuente": "xeu noticias",
+   "fecha": "2026-10-30T03:05:00+00:00",
+   "categoria": "Región",
+   "url": "https://xeu.mx/estado-de-veracruz/1438564/arranca-servicio-papaloapan-en-esta-zona-de-veracruz",
+   "imagen": "http://www.bing.com/th?id=ONUT.kDLZT5pzEV0zPQseEPVwPQ&pid=News"
+  },
   {
    "titulo": "Rocío Nahle arranca el servicio Papaloapan para atender la movilidad de más de 60 mil usuarios",
    "resumen": "Con el banderazo de inicio del Servicio Papaloapan, comenzó una nueva etapa para la movilidad en la Cuenca, con la puesta en marcha ...",
@@ -342,24 +360,6 @@
    "categoria": "Región",
    "url": "https://imagendeveracruz.mx/veracruz/anuncian-mega-cabalgata-en-la-cuenca-del-papaloapan-20260622-0045.html",
    "imagen": ""
-  },
-  {
-   "titulo": "Rocío Nahle anuncia autobuses Papaloapan en Carlos A. Carrillo - Cosamaloapan",
-   "resumen": "XALAPA, VER. - La gobernadora Rocío Nahle anunció la llegada de nuevos autobuses para municipios de la Cuenca del Papaloapan, esto como parte de la iniciativa de modernización del transporte público ...",
-   "fuente": "lasillarota",
-   "fecha": "2026-05-30T02:58:00+00:00",
-   "categoria": "Región",
-   "url": "https://lasillarota.com/veracruz/estado/2026/5/30/rocio-nahle-anuncia-autobuses-papaloapan-en-carlos-a-carrillo-cosamaloapan-512498.html",
-   "imagen": "https://img.lasillarota.com/44SFtTrdRhqX9H0BkUaZDOZgvbfdUdvNPDgcdK3KDfc/rs:fill:1200:630:0/g:fp:0.5:0.5/f:jpg/aHR0cHM6Ly9hc3NldHMubGFzaWxsYXJvdGEuY29tL2ZvdG9ncmFmaWFzLzIwMjYvNS8zMC84Njc0NTYuanBn"
-  },
-  {
-   "titulo": "Tlacotalpan reconoce y celebra a Don Fallo, pilar del son jarocho",
-   "resumen": "Tlacotalpan, Ver.— En el marco de las fiestas de La Candelaria, la ciudad ribereña rindió homenaje a uno de sus más emblemáticos exponentes de la música tradicional veracruzana durante el XLVII ...",
-   "fuente": "La Jornada Veracruz",
-   "fecha": "2026-02-03T10:07:00+00:00",
-   "categoria": "Cultura",
-   "url": "https://jornadaveracruz.com.mx/tlacotalpan-reconoce-y-celebra-a-don-fallo-pilar-del-son-jarocho/",
-   "imagen": "https://jornadaveracruz.com.mx/wp-content/uploads/2026/02/don-fallo.jpeg"
   }
  ]
 }
