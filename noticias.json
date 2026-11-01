@@ -1,6 +1,24 @@
 {
- "actualizado": "2026-11-01T12:23:22.580540+00:00",
+ "actualizado": "2026-11-01T19:17:51.367922+00:00",
  "noticias": [
+  {
+   "titulo": "¡ASALTANTES ATACARON A MACHETAZOS AL ABUELITO!",
+   "resumen": "Un adulto mayor estuvo a punto de perder una mano, al ser atacado a machetazos durante un asalto, registrado por la noche en la cabecera municipal de Cosamaloapan, donde lo dejaron con graves heridas ...",
+   "fuente": "Notiver",
+   "fecha": "2026-11-01T10:00:00+00:00",
+   "categoria": "Región",
+   "url": "https://www.notiver.com/sucesos/asaltantes-atacaron-a-machetazos-al-abuelito/",
+   "imagen": "http://www.bing.com/th?id=ONUT.3oDOcodlWfa3A7kf3QvReA&pid=News"
+  },
+  {
+   "titulo": "Veracruz, con potencial para lluvias",
+   "resumen": "XALAPA, Ver., 1 de noviembre de 2026.- Para las próximas 24 horas, en Veracruz se esperan condiciones de cielo parcialmente nublado con potencial para lluvias en la zona montañosa central y hacia la p ...",
+   "fuente": "Quadratín Veracruz",
+   "fecha": "2026-11-01T08:00:00+00:00",
+   "categoria": "Región",
+   "url": "https://veracruz.quadratin.com.mx/veracruz-con-potencial-para-lluvias/",
+   "imagen": "http://www.bing.com/th?id=ONUT.2LcrHSygtej_6NJjG91SeQ&pid=News"
+  },
   {
    "titulo": "Sagrario Cruz, investigadora veracruzana que ha dedicado su vida a rescatar la herencia afromexicana",
    "resumen": "Originaria de Cosamaloapan, recibió la Medalla Gonzalo Aguirre Beltrán durante el Festival Afrocaribeño 2026; en entrevista, habló sobre sus investigaciones, la historia afrodescendiente de Veracruz y ...",
@@ -36,6 +54,15 @@
    "categoria": "Región",
    "url": "https://www.eldictamen.mx/inicia-operaciones-el-servicio-papaloapan-para-movilizar-a-60-mil-ciudadanos/",
    "imagen": "https://www.eldictamen.mx/wp-content/uploads/2026/10/Servicio-Papaloapan-1200x675.webp"
+  },
+  {
+   "titulo": "¡Viernes de contrastes en Oaxaca y Veracruz! Lluvias, calor y fuertes vientos marcarán el clima en la Cuenca del Papaloapan",
+   "resumen": "➡️ El Servicio Meteorológico Nacional prevé chubascos de 5 a 25 milímetros en Oaxaca y lluvias aisladas en Veracruz, mientras que en la Cuenca del Papaloapan podrían registrarse periodos de nubosidad ...",
+   "fuente": "El Piñero",
+   "fecha": "2026-10-30T04:45:00+00:00",
+   "categoria": "Región",
+   "url": "https://www.elpinero.mx/viernes-de-contrastes-en-oaxaca-y-veracruz-lluvias-calor-y-fuertes-vientos-marcaran-el-clima-en-la-cuenca-del-papaloapan/",
+   "imagen": "http://www.bing.com/th?id=ONUT.E-KSv-Qs9YJoAhHb7T5ydA&pid=News"
   },
   {
    "titulo": "Arranca Servicio Papaloapan en esta zona de Veracruz",
@@ -333,33 +360,6 @@
    "categoria": "Región",
    "url": "https://imagendeveracruz.mx/estado/no-te-vayas-a-enfermar-trabajadores-del-imss-marchan-en-cosamaloapan-por-falta-de-insumos-y-bajos-salarios-20261014-0004.html",
    "imagen": ""
-  },
-  {
-   "titulo": "¿Quién es el laudero de Tlacotalpan que construyó la jarana para Claudia Sheinbaum?",
-   "resumen": "XALAPA, VER.- Este domingo 4 de octubre, la presidenta Claudia Sheinbaum Pardo recibió como obsequio una jarana tlacotalpeña durante su visita número 17 al estado de Veracruz. La entrega la hizo la ...",
-   "fuente": "lasillarota",
-   "fecha": "2026-10-05T07:05:00+00:00",
-   "categoria": "Región",
-   "url": "https://lasillarota.com/veracruz/vida/2026/10/5/quien-es-el-laudero-de-tlacotalpan-que-construyo-la-jarana-para-claudia-sheinbaum-531560.html",
-   "imagen": "https://img.lasillarota.com/mn2F92OAoyF4aPFRwT5JMYZ4G9LpmXJBB8pVrvusfuA/rs:fill:1200:630:1/g:fp:0.5:0.5/f:jpg/aHR0cHM6Ly9hc3NldHMubGFzaWxsYXJvdGEuY29tL2ltZy8xNzkxMjI3ODg1NzMzLWxleGRoNy5qcGc"
-  },
-  {
-   "titulo": "Monitorean Río Papaloapan Tras Desfogue en Presa Cerro de Oro en Veracruz",
-   "resumen": "Autoridades señalaron que las condiciones previstas no representan actualmente un escenario de riesgo para las comunidades ribereñas ...",
-   "fuente": "N+ Noticias",
-   "fecha": "2026-09-22T16:08:00+00:00",
-   "categoria": "Comunidad",
-   "url": "https://www.nmas.com.mx/veracruz/sociedad/conagua-realiza-desfogue-de-la-presa-cerro-de-oro-al-rio-papaloapan/",
-   "imagen": "https://static.nmas.com.mx/Nmas/cms/desfogue-presa-Cerro-de-Oro-Veracruz-1920x1080.jpg"
-  },
-  {
-   "titulo": "Nuevos autobuses Papaloapan: estas serán las 3 rutas en Cosamaloapan - Carlos A. Carrillo",
-   "resumen": "XALAPA, VER. - En conferencia de prensa de este martes 11 de agosto, Juan Enrique Santos Mendoza, secretario de la administración del fideicomiso en la modernización del transporte público en Veracruz ...",
-   "fuente": "lasillarota",
-   "fecha": "2026-08-12T02:30:00+00:00",
-   "categoria": "Región",
-   "url": "https://lasillarota.com/veracruz/estado/2026/8/12/nuevos-autobuses-papaloapan-estas-seran-las-3-rutas-en-cosamaloapan-carlos-a-carrillo-524226.html",
-   "imagen": "https://img.lasillarota.com/Cgb7uHZoGNhezeIAMcNIrCHlaCDGFvbGNIjpz1lKmn0/rs:fill:1200:630:0/g:fp:0.5:0.5/f:jpg/aHR0cHM6Ly9hc3NldHMubGFzaWxsYXJvdGEuY29tL2ltZy8xNzg2NTQ3Mjc1NzU1LW52Y3BpNC5qcGc"
   }
  ]
 }
