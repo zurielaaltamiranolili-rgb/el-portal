@@ -1,6 +1,24 @@
 {
- "actualizado": "2026-11-03T20:42:49.198826+00:00",
+ "actualizado": "2026-11-04T00:58:48.382596+00:00",
  "noticias": [
+  {
+   "titulo": "¡Lluvias, calor y cambios en el clima! Frente frío 4 y canales de baja presión influirán en Oaxaca, Veracruz y la Cuenca del Papaloapan",
+   "resumen": "➡️ El Servicio Meteorológico Nacional pronostica chubascos de 5 a 25 milímetros en Oaxaca y Veracruz este martes 3 de noviembre; la Cuenca del Papaloapan podría registrar lluvias, principalmente en zo ...",
+   "fuente": "El Piñero",
+   "fecha": "2026-11-03T09:52:00+00:00",
+   "categoria": "Región",
+   "url": "https://www.elpinero.mx/lluvias-calor-y-cambios-en-el-clima-frente-frio-4-y-canales-de-baja-presion-influiran-en-oaxaca-veracruz-y-la-cuenca-del-papaloapan/",
+   "imagen": "http://www.bing.com/th?id=ONUT.VzQPCLF2uVJysqUHc1uzXw&pid=News"
+  },
+  {
+   "titulo": "Servicio Papaloapan conecta la cuenca con seis unidades",
+   "resumen": "Seis unidades del Servicio Papaloapan conectan a Carlos A. Carrillo y Cosamaloapan mediante tres rutas, con una tarifa anunciada de 15 pesos.",
+   "fuente": "Jornada Veracruz",
+   "fecha": "2026-11-03T08:27:00+00:00",
+   "categoria": "Región",
+   "url": "https://jornadaveracruz.com.mx/servicio-papaloapan-transporte-cuenca-veracruz/",
+   "imagen": "https://jornadaveracruz.com.mx/wp-content/uploads/2026/11/buses-papaloapan.jpg"
+  },
   {
    "titulo": "Veracruz: Multan con más de un millón de pesos a alcoholera de Cosamaloapan por contaminación del río Papaloapan",
    "resumen": "Redaccion Cosamaloapan, Ver.– La Comisión Nacional del Agua (Conagua), en coordinación con la Guardia Nacional, notificó una sanción económica de 1 millón 13 mil 588 pesos a una empresa alcoholera de ...",
@@ -342,24 +360,6 @@
    "categoria": "Seguridad",
    "url": "https://imagendeveracruz.mx/policiaca/patrulla-del-ipax-impacta-a-motociclistaen-la-colonia-el-42-de-cosamaloapan-veracruz-20261019-0066.html",
    "imagen": "http://www.bing.com/th?id=ONUT.MaV3wWMHwBOV6LmRmtX6ig&pid=News"
-  },
-  {
-   "titulo": "Sismo de magnitud 3.8 sacude la zona noroeste de Cosamaloapan en Veracruz",
-   "resumen": "El Servicio Sismológico Nacional registró un movimiento telúrico en Veracruz durante la madrugada de este lunes.",
-   "fuente": "El Heraldo de México",
-   "fecha": "2026-10-19T07:19:00+00:00",
-   "categoria": "Región",
-   "url": "https://heraldodemexico.com.mx/nacional/2026/10/19/sismo-de-magnitud-38-sacude-la-zona-noroeste-de-cosamaloapan-en-veracruz-911596.html",
-   "imagen": "http://www.bing.com/th?id=ONUT.jQ1eYk0piOhgZAO87JBBhw&pid=News"
-  },
-  {
-   "titulo": "Choque frontal de motos deja heridos a Erick y Benito, en Cosamaloapan, Veracruz",
-   "resumen": "Erick Yahir Zamudio León, de 28 años, y Benito Palacios Santos, de 58, fueron trasladados a distintos hospitales tras el accidente ocurrido en el bulevar San Cristóbal; ambos viajaban sin casco ...",
-   "fuente": "Imagen de Veracruz",
-   "fecha": "2026-10-16T19:20:00+00:00",
-   "categoria": "Seguridad",
-   "url": "https://imagendeveracruz.mx/policiaca/choque-frontal-de-motos-deja-heridos-a-erick-y-benito-en-cosamaloapan-veracruz-20261016-0096.html",
-   "imagen": "http://www.bing.com/th?id=ONUT.9jkq3i9hDZPl6tUfRBsTvA&pid=News"
   }
  ]
 }
