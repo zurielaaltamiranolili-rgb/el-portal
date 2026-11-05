@@ -1,6 +1,15 @@
 {
- "actualizado": "2026-11-05T01:11:39.353178+00:00",
+ "actualizado": "2026-11-05T10:06:06.270947+00:00",
  "noticias": [
+  {
+   "titulo": "Motociclista se vuela un tope y termina lesionado en Carlos A. Carrillo",
+   "resumen": "Eliseo Mora, originario de Cosamaloapan, sufrió una herida en la cabeza y lesiones en ambos brazos tras caer de su motocicleta en la colonia La Papelera. Fue trasladado al Hospital Regional ...",
+   "fuente": "Imagen de Veracruz",
+   "fecha": "2026-11-04T15:59:00+00:00",
+   "categoria": "Región",
+   "url": "https://imagendeveracruz.mx/policiaca/motociclista-se-vuela-un-tope-y-termina-lesionado-en-carlos-a.-carrillo-20261105-0006.html",
+   "imagen": "http://www.bing.com/th?id=ONUT.Kk8LdVaE-kTHmuffBIi25Q&pid=News"
+  },
   {
    "titulo": "¡Lluvias, calor y cambios en el clima! Frente frío 4 y canales de baja presión influirán en Oaxaca, Veracruz y la Cuenca del Papaloapan",
    "resumen": "➡️ El Servicio Meteorológico Nacional pronostica chubascos de 5 a 25 milímetros en Oaxaca y Veracruz este martes 3 de noviembre; la Cuenca del Papaloapan podría registrar lluvias, principalmente en zo ...",
@@ -351,15 +360,6 @@
    "categoria": "Región",
    "url": "https://imagendeveracruz.mx/estado/bajan-inundaciones-en-coatzacoalcos-agua-dulce-y-nanchital-pc-nacional-vigila-aun-niveles-de-rios-uxpanapa-y-papaloapan-20261020-0050.html",
    "imagen": "http://www.bing.com/th?id=ONUT.daeqgKwn2JBHF56Fbn9pcA&pid=News"
-  },
-  {
-   "titulo": "Patrulla del IPAX impacta a motociclista en la colonia El 42 de Cosamaloapan, Veracruz",
-   "resumen": "La mañana de este lunes se registró un aparatoso accidente automovilístico en el cruce de las prolongaciones de las calles Galeana y Porfirio Díaz, en la colonia El 42, el cual dejó como saldo una ...",
-   "fuente": "Imagen de Veracruz",
-   "fecha": "2026-10-19T15:25:00+00:00",
-   "categoria": "Seguridad",
-   "url": "https://imagendeveracruz.mx/policiaca/patrulla-del-ipax-impacta-a-motociclistaen-la-colonia-el-42-de-cosamaloapan-veracruz-20261019-0066.html",
-   "imagen": "http://www.bing.com/th?id=ONUT.MaV3wWMHwBOV6LmRmtX6ig&pid=News"
   }
  ]
 }
