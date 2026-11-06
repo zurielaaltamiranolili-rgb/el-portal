@@ -1,6 +1,15 @@
 {
- "actualizado": "2026-11-06T01:17:22.593789+00:00",
+ "actualizado": "2026-11-06T10:10:44.722111+00:00",
  "noticias": [
+  {
+   "titulo": "Motociclista resulta gravemente herido tras impactarse contra taxi en Carlos A. Carrillo, Veracruz",
+   "resumen": "Un aparatoso accidente vehicular registrado en la carretera federal 175 tramo Tlacotalpan-Cosamaloapan a la altura de Carlos A. Carrillo dejó como saldo a un joven de 19 años hospitalizado con lesione ...",
+   "fuente": "Imagen de Veracruz",
+   "fecha": "2026-11-05T16:00:00+00:00",
+   "categoria": "Seguridad",
+   "url": "https://imagendeveracruz.mx/policiaca/motociclista-resulta-gravemente-herido-tras-impactarse-contra-taxi-en-carlos-a.-carrillo-veracruz-20261106-0004.html",
+   "imagen": "http://www.bing.com/th?id=ONUT.fcj9_P1F-SDMH5eHy1BSSg&pid=News"
+  },
   {
    "titulo": "Localizan con vida a los 2 traileros desaparecidos tras asalto en Cosamaloapan",
    "resumen": "AGENCIA Cosamaloapan, Ver.- Los operadores de tráiler Gabriel Peralta González, de 30 años, y Diego Contreras Ochoa, de 21, fueron localizados con vida este jueves 5 de noviembre, luego de ...",
@@ -27,6 +36,15 @@
    "categoria": "Región",
    "url": "https://imagendeveracruz.mx/policiaca/motociclista-se-vuela-un-tope-y-termina-lesionado-en-carlos-a.-carrillo-20261105-0006.html",
    "imagen": "http://www.bing.com/th?id=ONUT.Kk8LdVaE-kTHmuffBIi25Q&pid=News"
+  },
+  {
+   "titulo": "Este día de la semana impactarán fuertes lluvias y Norte en Veracruz por frente frío 4, según Protección Civil",
+   "resumen": "Protección Civil actualizó el pronóstico y prevé que las precipitaciones aumenten a partir del viernes, con lluvias fuertes durante el fin de semana y un evento de Norte en las costas veracruzanas ...",
+   "fuente": "Imagen de Veracruz",
+   "fecha": "2026-11-04T15:59:00+00:00",
+   "categoria": "Región",
+   "url": "https://imagendeveracruz.mx/veracruz/este-dia-de-la-semana-impactaran-fuertes-lluvias-y-norte-en-veracruz-por-frente-frio-4-segun-proteccion-civil-20261104-0071.html",
+   "imagen": "http://www.bing.com/th?id=ONUT.ZAZFk7oIuS4cHhaMaLkVnQ&pid=News"
   },
   {
    "titulo": "¡Lluvias, calor y cambios en el clima! Frente frío 4 y canales de baja presión influirán en Oaxaca, Veracruz y la Cuenca del Papaloapan",
@@ -341,24 +359,6 @@
    "fecha": "2026-10-24T04:35:00+00:00",
    "categoria": "Región",
    "url": "https://www.elpinero.mx/oaxaca-y-veracruz-bajo-vigilancia-por-lluvias-y-tormentas-este-sabado-canales-de-baja-presion-amenazan-con-intensificar-el-mal-tiempo-en-la-cuenca-del-papaloapan/",
-   "imagen": ""
-  },
-  {
-   "titulo": "Así estará el clima en Veracruz-Boca del Río este viernes 23 de octubre",
-   "resumen": "El paso del Frente Frío numero dos dejara vientos con rachas de hasta 70km/h y un ambiente fresco con sensación térmica de hasta 25° C.",
-   "fuente": "La Silla Rota",
-   "fecha": "2026-10-22T16:14:00+00:00",
-   "categoria": "Región",
-   "url": "https://lasillarota.com/veracruz/local/2026/10/22/asi-estara-el-clima-en-veracruz-boca-del-rio-este-viernes-23-de-octubre-534247.html",
-   "imagen": "http://www.bing.com/th?id=ONUT.PC7gRP_0n7eDDAkREFWRJQ&pid=News"
-  },
-  {
-   "titulo": "Veracruz: Pasan la charola en el Ayuntamiento de Cosamaloapan; alcalde pide dinero a funcionarios para festejos de Día de Muertos",
-   "resumen": "➡️ El documento, fechado el 14 de octubre, señala que la solicitud deriva de instrucciones del alcalde Jorge Alberto Villegas Cázares y de acuerdos con la Sindicatura y el Comité de Festejos. Redacció ...",
-   "fuente": "El Piñero",
-   "fecha": "2026-10-21T09:47:00+00:00",
-   "categoria": "Comunidad",
-   "url": "https://www.elpinero.mx/veracruz-pasan-la-charola-en-el-ayuntamiento-de-cosamaloapan-alcalde-pide-dinero-a-funcionarios-para-festejos-de-dia-de-muertos/",
    "imagen": ""
   }
  ]
