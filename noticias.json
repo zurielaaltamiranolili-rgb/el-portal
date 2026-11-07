@@ -1,6 +1,15 @@
 {
- "actualizado": "2026-11-06T18:42:28.245186+00:00",
+ "actualizado": "2026-11-07T00:31:28.875796+00:00",
  "noticias": [
+  {
+   "titulo": "Frente frío 4 golpeará con lluvias, viento y descenso de temperatura a Veracruz y Oaxaca; la Cuenca del Papaloapan, bajo vigilancia",
+   "resumen": "➡️ El sistema frontal, reforzado por una masa de aire frío, provocará condiciones de inestabilidad en el oriente y sureste de México, con lluvias que podrían intensificarse en distintas regiones de Ve ...",
+   "fuente": "El Piñero",
+   "fecha": "2026-11-06T09:28:00+00:00",
+   "categoria": "Región",
+   "url": "https://www.elpinero.mx/frente-frio-4-golpeara-con-lluvias-viento-y-descenso-de-temperatura-a-veracruz-y-oaxaca-la-cuenca-del-papaloapan-bajo-vigilancia/",
+   "imagen": "http://www.bing.com/th?id=ONUT.w7cmFXahio2f18UbJSyjSA&pid=News"
+  },
   {
    "titulo": "Motociclista resulta gravemente herido tras impactarse contra taxi en Carlos A. Carrillo, Veracruz",
    "resumen": "Un aparatoso accidente vehicular registrado en la carretera federal 175 tramo Tlacotalpan-Cosamaloapan a la altura de Carlos A. Carrillo dejó como saldo a un joven de 19 años hospitalizado con lesione ...",
@@ -351,15 +360,6 @@
    "categoria": "Región",
    "url": "http://diarioacayucan.com/lluvias-y-tormentas-electricas-en-veracruz-para-el-fin-de-semana-otros-frentes-frios-estan-en-desarrollo/",
    "imagen": "http://diarioacayucan.com/wp-content/uploads/2026/10/Acayucan-Oluta-y-Soconusco-lluvias-1.jpg"
-  },
-  {
-   "titulo": "Oaxaca y Veracruz, bajo vigilancia por lluvias y tormentas este sábado; canales de baja presión amenazan con intensificar el mal tiempo en la Cuenca del Papaloapan",
-   "resumen": "➡️ El Servicio Meteorológico Nacional advierte que canales de baja presión e inestabilidad atmosférica favorecerán lluvias y chubascos en el oriente, sur y sureste de México, con posibles tormentas el ...",
-   "fuente": "El Piñero",
-   "fecha": "2026-10-24T04:35:00+00:00",
-   "categoria": "Región",
-   "url": "https://www.elpinero.mx/oaxaca-y-veracruz-bajo-vigilancia-por-lluvias-y-tormentas-este-sabado-canales-de-baja-presion-amenazan-con-intensificar-el-mal-tiempo-en-la-cuenca-del-papaloapan/",
-   "imagen": ""
   }
  ]
 }
