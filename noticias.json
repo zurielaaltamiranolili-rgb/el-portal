@@ -1,6 +1,24 @@
 {
- "actualizado": "2026-11-07T09:27:08.162132+00:00",
+ "actualizado": "2026-11-07T17:12:43.127711+00:00",
  "noticias": [
+  {
+   "titulo": "Frente frío 4 avanza sobre México y pone bajo vigilancia a Veracruz y Oaxaca por lluvias y descenso de temperatura",
+   "resumen": "➡️ La interacción del sistema frontal con canales de baja presión y una vaguada en niveles altos favorecerá precipitaciones en distintas regiones del país, mientras una masa de aire frío mantendrá con ...",
+   "fuente": "El Piñero",
+   "fecha": "2026-11-07T01:52:00+00:00",
+   "categoria": "Región",
+   "url": "https://www.elpinero.mx/frente-frio-4-avanza-sobre-mexico-y-pone-bajo-vigilancia-a-veracruz-y-oaxaca-por-lluvias-y-descenso-de-temperatura/",
+   "imagen": "http://www.bing.com/th?id=ONUT.AN-ouWn1X7Q7AqrNy1SaGA&pid=News"
+  },
+  {
+   "titulo": "Detienen en Veracruz a Gloria Priscila 'N', exregidora morenista y funcionaria municipal",
+   "resumen": "De acuerdo con el Registro Nacional de Detenciones, la captura ocurrió la madrugada de este viernes en el municipio de Alvarado.",
+   "fuente": "Radio Fórmula",
+   "fecha": "2026-11-06T14:02:00+00:00",
+   "categoria": "Región",
+   "url": "https://www.radioformula.com.mx/seguridad/detienen-en-veracruz-a-gloria-priscila-n-exregidora-morenista-y-funcionaria-municipal-20261106-0073.html",
+   "imagen": "http://www.bing.com/th?id=ONUT.aCSbLhUqVUekueurrTVONg&pid=News"
+  },
   {
    "titulo": "Frente frío 4 golpeará con lluvias, viento y descenso de temperatura a Veracruz y Oaxaca; la Cuenca del Papaloapan, bajo vigilancia",
    "resumen": "➡️ El sistema frontal, reforzado por una masa de aire frío, provocará condiciones de inestabilidad en el oriente y sureste de México, con lluvias que podrían intensificarse en distintas regiones de Ve ...",
@@ -342,24 +360,6 @@
    "categoria": "Región",
    "url": "https://heraldodemexico.com.mx/nacional/2026/10/24/sismo-de-magnitud-38-sacude-las-cercanias-de-cosamaloapan-veracruz-915481.html",
    "imagen": "http://www.bing.com/th?id=ONUT.gwdG8OldSe_OVOjpvLQhiQ&pid=News"
-  },
-  {
-   "titulo": "Ana Paula, de Tlacotalpan, investiga el origen del pandero octagonal y busca preservar el son jarocho",
-   "resumen": "Ana Paula Rodríguez Palacios fue beneficiaria del PECDA 2025 con el proyecto “Que rezumbe el pandero”, dedicado a estudiar este instrumento tradicional de la región del Sotavento ...",
-   "fuente": "Imagen de Veracruz",
-   "fecha": "2026-10-24T14:31:00+00:00",
-   "categoria": "Cultura",
-   "url": "https://imagendeveracruz.mx/espectaculos/ana-paula-de-tlacotalpan-investiga-el-origen-del-pandero-octagonal-y-busca-preservar-el-son-jarocho-20261024-0046.html",
-   "imagen": "http://www.bing.com/th?id=ONUT.7ZD-8H9Mj1y33IadkzzzMA&pid=News"
-  },
-  {
-   "titulo": "Lluvias y tormentas eléctricas en Veracruz para el fin de semana; otros frentes fríos están en desarrollo",
-   "resumen": "En Veracruz prevén un ambiente templado a relativamente cálido durante el día y de fresco a frío por las noches y madrugadas. En gran parte del estado hay condiciones para lluvias, sobre todo en regio ...",
-   "fuente": "DIARIO DE ACAYUCAN",
-   "fecha": "2026-10-24T11:35:00+00:00",
-   "categoria": "Región",
-   "url": "http://diarioacayucan.com/lluvias-y-tormentas-electricas-en-veracruz-para-el-fin-de-semana-otros-frentes-frios-estan-en-desarrollo/",
-   "imagen": "http://diarioacayucan.com/wp-content/uploads/2026/10/Acayucan-Oluta-y-Soconusco-lluvias-1.jpg"
   }
  ]
 }
