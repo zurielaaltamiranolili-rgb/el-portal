@@ -1,6 +1,33 @@
 {
- "actualizado": "2026-11-08T12:29:57.777128+00:00",
+ "actualizado": "2026-11-08T19:15:09.671323+00:00",
  "noticias": [
+  {
+   "titulo": "Clima en Veracruz: Prevén lluvias en zonas montañosas y cuencas del sur",
+   "resumen": "El Centro de Estudios Meteorológicos pronosticó condiciones de cielo despejado a medio nublado en Veracruz, con periodos de mayor nubosidad en ...",
+   "fuente": "El Dictamen",
+   "fecha": "2026-11-08T08:25:00+00:00",
+   "categoria": "Región",
+   "url": "https://www.eldictamen.mx/clima-en-veracruz-preven-lluvias-en-zonas-montanosas-y-cuencas-del-sur/",
+   "imagen": "https://www.eldictamen.mx/wp-content/uploads/2025/10/Xalapa-lluvias-aviso-1200x675.webp"
+  },
+  {
+   "titulo": "Gloria Priscila 'N', exregidora de Morena de Tierra Blanca, detenida en Veracruz | Perfil",
+   "resumen": "Gloria Priscila Carrera Illescas, directora de Programas de Gobierno en Tres Valles y exregidora de Morena en Tierra Blanca, fue detenida por las autoridades en la madrugada del 6 de noviembre, presun ...",
+   "fuente": "Milenio on MSN",
+   "fecha": "2026-11-08T07:22:00+00:00",
+   "categoria": "Seguridad",
+   "url": "https://www.msn.com/es-mx/noticias/otras/gloria-priscila-n-exregidora-de-morena-de-tierra-blanca-detenida-en-veracruz-perfil/ar-AA2h0tBg",
+   "imagen": "http://www.bing.com/th?id=ONUT.VuP1YYzdJQL9g0_IKQH_AA&pid=News"
+  },
+  {
+   "titulo": "Gobierno de Veracruz entrega 484 piezas de mobiliario a 4 hospitales",
+   "resumen": "En seguimiento a las necesidades identificadas durante las supervisiones de la gobernadora Rocío Nahle García, el gobierno de Veracruz entregó 484 piezas de mobiliario a los hospitales de Cosamaloapan ...",
+   "fuente": "Jornada Veracruz",
+   "fecha": "2026-11-08T05:29:00+00:00",
+   "categoria": "Región",
+   "url": "https://jornadaveracruz.com.mx/gobierno-de-veracruz-entrega-484-piezas-de-mobiliario-a-4-hospitales/",
+   "imagen": "https://jornadaveracruz.com.mx/wp-content/uploads/2026/11/p03a-avc.webp"
+  },
   {
    "titulo": "FGR rastrea nexos de exfuncionaria de Tierra Blanca con el CJNG en Veracruz",
    "resumen": "Gloria Priscila Carrera Illescas, exregidora por Morena en Tierra Blanca y funcionaria municipal de Tres Valles, fue ligada a Rafael Osorio Uscanga, alias “El Fallo”, presunto jefe de plaza del Cártel ...",
@@ -333,33 +360,6 @@
    "categoria": "Región",
    "url": "https://www.masnoticias.mx/conagua-sancionan-a-planta-alcoholera-de-cosamaloapan/",
    "imagen": "http://www.bing.com/th?id=ONUT.6A3LZP23ztgNuQ7LuZHq7Q&pid=News"
-  },
-  {
-   "titulo": "¡MULTAN A LA ALCOHOLERA! - DE COSAMALOAPAN!",
-   "resumen": "La Comisión Nacional del Agua (Conagua) notificó una sanción económica de un millón 13 mil 588.40 pesos a una empresa alcoholera de Cosamaloapan, Veracruz, por incumplimientos a la Ley de Aguas Nacion ...",
-   "fuente": "Notiver",
-   "fecha": "2026-10-28T11:00:00+00:00",
-   "categoria": "Región",
-   "url": "https://www.notiver.com/primera/multan-a-la-alcoholera-de-cosamaloapan/",
-   "imagen": "https://storage.ghost.io/c/57/bf/57bf62e9-b745-44b0-a1bc-cc81ddda3aa1/content/images/2026/10/15_MULTAN_A_LA_ALCOHOLERA_DE_COSA1.jpg"
-  },
-  {
-   "titulo": "¡Lluvias no dan tregua a Oaxaca y Veracruz! Cuenca del Papaloapan enfrentará otro miércoles de chubascos y posibles afectaciones",
-   "resumen": "➡️ El Servicio Meteorológico Nacional pronostica lluvias de 5 a 25 milímetros en ambos estados este miércoles 28 de octubre, debido a canales de baja presión, inestabilidad atmosférica y humedad proce ...",
-   "fuente": "El Piñero",
-   "fecha": "2026-10-28T10:34:00+00:00",
-   "categoria": "Región",
-   "url": "https://www.elpinero.mx/lluvias-no-dan-tregua-a-oaxaca-y-veracruz-cuenca-del-papaloapan-enfrentara-otro-miercoles-de-chubascos-y-posibles-afectaciones/",
-   "imagen": "http://www.bing.com/th?id=ONUT.hewMSG_9waPNIH1yX_R2dw&pid=News"
-  },
-  {
-   "titulo": "Multan a alcoholera por contaminar afluentes de Cosamaloapan en junio",
-   "resumen": "Conagua impuso una multa de más de un millón de pesos a una alcoholera de Cosamaloapan tras la emergencia ambiental por mortandad de peces en junio.",
-   "fuente": "Jornada Veracruz",
-   "fecha": "2026-10-28T09:56:00+00:00",
-   "categoria": "Región",
-   "url": "https://jornadaveracruz.com.mx/multa-alcoholera-cosamaloapan-contaminacion-rios/",
-   "imagen": "http://www.bing.com/th?id=ONUT.c_jNYg11dMNuTuj7bDbU7w&pid=News"
   }
  ]
 }
