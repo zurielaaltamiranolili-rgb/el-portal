@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-08T03:34:38.110490+00:00",
+ "actualizado": "2026-11-08T12:29:57.777128+00:00",
  "noticias": [
   {
    "titulo": "FGR rastrea nexos de exfuncionaria de Tierra Blanca con el CJNG en Veracruz",
@@ -38,6 +38,15 @@
    "imagen": "http://www.bing.com/th?id=ONUT.8MByu7RJ61_GZl0yce_blw&pid=News"
   },
   {
+   "titulo": "Ligan a ex regidora de Veracruz con jefe de plaza del CJNG",
+   "resumen": "La ex regidora morenista de Tres Valles, detenida en Veracruz, es vinculada con \"El Falo\", presunto operador regional del CJNG.",
+   "fuente": "Reforma",
+   "fecha": "2026-11-07T10:47:00+00:00",
+   "categoria": "Seguridad",
+   "url": "https://www.reforma.com/ligan-a-ex-regidora-de-veracruz-con-jefe-de-plaza-del-cjng/ar3310179",
+   "imagen": "https://iphonegr.reforma.com/libre/online07/imagetransformer2/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/7/317/6316211.jpg&maxwidth=960&maxheight=640&imgWatermark=https://www.reforma.com/libre/imgdiseno/mailsharing/marca_agua.png&transparencia=0.9&centerWM=0"
+  },
+  {
    "titulo": "Detienen a exregidora de Morena de Tierra Blanca, Veracruz, y 5 trabajadores del IMSS",
    "resumen": "Detienen a exregidora de Morena y a 5 empleados del IMSS en operativo en Veracruz. Entre ellos está el director de la UMF 61 de Córdoba.",
    "fuente": "Milenio",
@@ -65,15 +74,6 @@
    "imagen": "http://www.bing.com/th?id=ONUT.hFIogWk4PnuGJktmMy4nWQ&pid=News"
   },
   {
-   "titulo": "Ligan a ex regidora de Veracruz con jefe de plaza del CJNG",
-   "resumen": "Gloria Priscila Carrera Illescas es identificada como pareja sentimental de Rafael Osorio Uscanga, alias “El Falo“, señalado como jefe de plaza ...",
-   "fuente": "El Diario",
-   "fecha": "2026-11-07T04:32:00+00:00",
-   "categoria": "Región",
-   "url": "https://diario.mx/nacional/2026/nov/07/ligan-a-ex-regidora-de-veracruz-con-jefe-de-plaza-del-cjng-1147590.html",
-   "imagen": "https://diario.mx/core/dmx/assets/images/2026/11/07/middle-lig-mP6H1XSQ8.jpg"
-  },
-  {
    "titulo": "Frente frío 4 avanza sobre México y pone bajo vigilancia a Veracruz y Oaxaca por lluvias y descenso de temperatura",
    "resumen": "➡️ La interacción del sistema frontal con canales de baja presión y una vaguada en niveles altos favorecerá precipitaciones en distintas regiones del país, mientras una masa de aire frío mantendrá con ...",
    "fuente": "El Piñero",
@@ -81,6 +81,15 @@
    "categoria": "Región",
    "url": "https://www.elpinero.mx/frente-frio-4-avanza-sobre-mexico-y-pone-bajo-vigilancia-a-veracruz-y-oaxaca-por-lluvias-y-descenso-de-temperatura/",
    "imagen": "http://www.bing.com/th?id=ONUT.AN-ouWn1X7Q7AqrNy1SaGA&pid=News"
+  },
+  {
+   "titulo": "Exregidora de Morena es detenida en Veracruz; la vinculan con jefe de plaza del CJNG",
+   "resumen": "Gloria Priscila Carrera Illescas, exregidora de Morena en Veracruz, fue vinculada con “El Falo”, presunto jefe de plaza del CJNG.",
+   "fuente": "SinEmbargo MX",
+   "fecha": "2026-11-07T01:03:00+00:00",
+   "categoria": "Seguridad",
+   "url": "https://www.sinembargo.mx/4900569/exregidora-de-morena-es-detenida-en-veracruz-la-vinculan-con-jefe-de-plaza-del-cjng/",
+   "imagen": "http://www.bing.com/th?id=ONUT.7x-935Hzp_SPvpMpoT_SsQ&pid=News"
   },
   {
    "titulo": "¿Quién es Gloria Priscila ‘N’? Exregidora de Morena detenida durante operativo en Veracruz",
@@ -351,15 +360,6 @@
    "categoria": "Región",
    "url": "https://jornadaveracruz.com.mx/multa-alcoholera-cosamaloapan-contaminacion-rios/",
    "imagen": "http://www.bing.com/th?id=ONUT.c_jNYg11dMNuTuj7bDbU7w&pid=News"
-  },
-  {
-   "titulo": "Sancionan a empresa alcoholera por incumplir la Ley de Aguas Nacionales en Cosamaloapan",
-   "resumen": "La Conagua sancionó con más de un millón de pesos a una empresa alcoholera en Cosamaloapan tras la mortandad de peces en la cuenca del Papaloapan.",
-   "fuente": "Milenio on MSN",
-   "fecha": "2026-10-28T01:06:23+00:00",
-   "categoria": "Región",
-   "url": "https://www.msn.com/es-mx/noticias/mexico/sancionan-a-empresa-alcoholera-por-incumplir-la-ley-de-aguas-nacionales-en-cosamaloapan/ar-AA2gemOp",
-   "imagen": ""
   }
  ]
 }
