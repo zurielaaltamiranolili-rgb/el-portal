@@ -1,6 +1,42 @@
 {
- "actualizado": "2026-11-10T13:59:40.056104+00:00",
+ "actualizado": "2026-11-10T21:07:01.339192+00:00",
  "noticias": [
+  {
+   "titulo": "Habrá norte de 70 km/h en Veracruz esta semana",
+   "resumen": "El área de Meteorología de la Secretaría de Protección Civil anunció un norte en Veracruz con rachas de hasta 70 km/h.",
+   "fuente": "El Dictamen",
+   "fecha": "2026-11-10T08:57:00+00:00",
+   "categoria": "Región",
+   "url": "https://www.eldictamen.mx/habra-norte-de-70-km-h-en-veracruz-esta-semana/",
+   "imagen": "https://www.eldictamen.mx/wp-content/uploads/2026/02/Frio-norte-Veracruz-1200x675.webp"
+  },
+  {
+   "titulo": "Prevén incremento de lluvias en Veracruz",
+   "resumen": "De acuerdo con el informe meteorológico emitido por la Secretaría de Protección Civil del Estado de Veracruz para este martes 10 de noviembre, ...",
+   "fuente": "MEGANOTICIAS",
+   "fecha": "2026-11-10T08:03:00+00:00",
+   "categoria": "Región",
+   "url": "https://www.meganoticias.mx/tuxpan/noticia/prevén-incremento-de-lluvias-en-veracruz/787151",
+   "imagen": "http://www.bing.com/th?id=ONUT.qoeri91ttWYo9A0p9bLXdw&pid=News"
+  },
+  {
+   "titulo": "Veracruz moderniza el transporte público con nuevos servicios y sin generar deuda",
+   "resumen": "Veracruz moderniza el transporte público con cinco servicios, incluido Atenas en Xalapa, bajo un esquema que busca recuperar la inversión sin generar deuda.",
+   "fuente": "sdpnoticias",
+   "fecha": "2026-11-10T05:22:00+00:00",
+   "categoria": "Región",
+   "url": "https://www.sdpnoticias.com/estados/veracruz/veracruz-moderniza-el-transporte-publico-con-nuevos-servicios-y-sin-generar-deuda/",
+   "imagen": "http://www.bing.com/th?id=ONUT.2sATg05qCSU3jT7CbcU9NA&pid=News"
+  },
+  {
+   "titulo": "Lluvias y aire frío ponen bajo vigilancia a Veracruz y la Cuenca del Papaloapan; Oaxaca tendrá condiciones de inestabilidad",
+   "resumen": "➡️ Veracruz enfrentará lluvias fuertes por la presencia de un canal de baja presión, mientras que en la Cuenca del Papaloapan podrían registrarse precipitaciones, aumento de nubosidad y cambios en las ...",
+   "fuente": "El Piñero",
+   "fecha": "2026-11-10T03:31:00+00:00",
+   "categoria": "Región",
+   "url": "https://www.elpinero.mx/lluvias-y-aire-frio-ponen-bajo-vigilancia-a-veracruz-y-la-cuenca-del-papaloapan-oaxaca-tendra-condiciones-de-inestabilidad/",
+   "imagen": ""
+  },
   {
    "titulo": "Pronóstico del clima para Veracruz y la región HOY 10 de noviembre de 2026 por Isidro Cano Luna",
    "resumen": "La afluencia de ai re húmedo proveniente del Golfo de Tehuantepec, que después de recorrer la región ístmica toma rumbo hacia el sur y centro del estado de Veracruz, favorece esta mañana el desarrollo ...",
@@ -324,42 +360,6 @@
    "categoria": "Región",
    "url": "https://www.eldictamen.mx/rocio-nahle-arranca-el-servicio-papaloapan-para-atender-la-movilidad-de-mas-de-60-mil-usuarios/",
    "imagen": "https://www.eldictamen.mx/wp-content/uploads/2026/10/servicio-Papaloapan1-1200x675.webp"
-  },
-  {
-   "titulo": "Rocío Nahle cumple compromiso al activar el servicio Papaloapan",
-   "resumen": "* 29.10.2026, Papaloapan Ver.- La gobernadora Rocío Nahle García informó que se invirtieron alrededor de 30 millones de pesos en el servicio Papaloapan con ...",
-   "fuente": "billieparkernoticias.com",
-   "fecha": "2026-10-29T15:30:00+00:00",
-   "categoria": "Región",
-   "url": "https://billieparkernoticias.com/rocio-nahle-cumple-compromiso-al-activar-el-servicio-papaloapan/",
-   "imagen": "http://www.bing.com/th?id=ONUT.g_sDCTuRyUVLRk7hrG511g&pid=News"
-  },
-  {
-   "titulo": "Carlos A. Carrillo y Cosamaloapan estrena transporte Papaloapan: tendrá cinco días gratis",
-   "resumen": "Habitantes de Cosamaloapan y Carlos A. Carrillo contarán con una nueva alternativa de transporte público con el inicio de operaciones del Servicio ...",
-   "fuente": "MEGANOTICIAS",
-   "fecha": "2026-10-29T13:45:00+00:00",
-   "categoria": "Región",
-   "url": "https://www.meganoticias.mx/veracruz/noticia/carlos-a-carrillo-y-cosamaloapan-estrena-transporte-papaloapan-tendrá-cinco-días-gratis/783755",
-   "imagen": "http://www.bing.com/th?id=ONUT.x5WZxiBV4WaUbOXy7Qu_jA&pid=News"
-  },
-  {
-   "titulo": "Arranca servicio Papaloapan para atender movilidad de más de 60 mil usuarios",
-   "resumen": ">Desde hoy hasta el 2 de noviembre el servicio será gratuito. >En Poza Rica el servicio de transporte supera los 9 mil usuarios diarios. Carlos A. Carrillo, Ver., jueves 29 de octubre de 2026.- Con el ...",
-   "fuente": "Crónica de Xalapa",
-   "fecha": "2026-10-29T11:25:00+00:00",
-   "categoria": "Región",
-   "url": "https://cronicadexalapa.com.mx/arranca-servicio-papaloapan-para-atender-movilidad-de-mas-de-60-mil-usuarios/",
-   "imagen": "http://www.bing.com/th?id=ONUT.wYiXeJKwsqkiW08l1Cb27A&pid=News"
-  },
-  {
-   "titulo": "Arranca Rocío Nahle el servicio Papaloapan",
-   "resumen": "En cuanto a la cobertura del transporte público estatal, actualmente operan 142 autobuses Ulúa y que próximamente se adquirirán 100 unidades más, a estos se suman 60 autobuses Quetzalli, 40 Totonacos ...",
-   "fuente": "Quadratín Veracruz",
-   "fecha": "2026-10-29T08:40:00+00:00",
-   "categoria": "Región",
-   "url": "https://veracruz.quadratin.com.mx/arranca-rocio-nahle-el-servicio-papaloapan/",
-   "imagen": "http://www.bing.com/th?id=ONUT.fyMDPaPZm2Ei0GqsOfoehg&pid=News"
   }
  ]
 }
