@@ -1,6 +1,15 @@
 {
- "actualizado": "2026-11-10T05:23:23.363982+00:00",
+ "actualizado": "2026-11-10T13:59:40.056104+00:00",
  "noticias": [
+  {
+   "titulo": "Pronóstico del clima para Veracruz y la región HOY 10 de noviembre de 2026 por Isidro Cano Luna",
+   "resumen": "La afluencia de ai re húmedo proveniente del Golfo de Tehuantepec, que después de recorrer la región ístmica toma rumbo hacia el sur y centro del estado de Veracruz, favorece esta mañana el desarrollo ...",
+   "fuente": "Imagen de Veracruz",
+   "fecha": "2026-11-10T03:00:00+00:00",
+   "categoria": "Región",
+   "url": "https://imagendeveracruz.mx/veracruz/pronostico-del-clima-para-veracruz-y-la-region-hoy-10-de-noviembre-de-2026-por-isidro-cano-luna-20261110-0013.html",
+   "imagen": "http://www.bing.com/th?id=ONUT.1nKwOPj1JN_oWqR3Mht30Q&pid=News"
+  },
   {
    "titulo": "Trabajadores del INE en Cosamaloapan se suman a paro de labores; exigen mejores condiciones laborales en Veracruz",
    "resumen": "Este lunes 9 de noviembre, trabajadores el Instituto Nacional Electoral iniciaron un paro nacional para exigir aumento laboral.",
@@ -351,15 +360,6 @@
    "categoria": "Región",
    "url": "https://veracruz.quadratin.com.mx/arranca-rocio-nahle-el-servicio-papaloapan/",
    "imagen": "http://www.bing.com/th?id=ONUT.fyMDPaPZm2Ei0GqsOfoehg&pid=News"
-  },
-  {
-   "titulo": "Autobuses Papaloapan arrancan servicio en Carlos A. Carrillo y Cosamaloapan; será gratis 5 días",
-   "resumen": "La región del Papaloapan se suma a Poza Rica, Coatzacoalcos, Veracruz y Boca del Río como las zonas que cuentan con nuevo transporte público.",
-   "fuente": "La Silla Rota",
-   "fecha": "2026-10-29T06:36:00+00:00",
-   "categoria": "Región",
-   "url": "https://lasillarota.com/veracruz/estado/2026/10/29/autobuses-papaloapan-arrancan-servicio-en-carlos-a-carrillo-y-cosamaloapan-sera-gratis-5-dias-535128.html",
-   "imagen": "http://www.bing.com/th?id=ONUT.ewO29wXxKJMJyYY76cccvQ&pid=News"
   }
  ]
 }
