@@ -1,6 +1,33 @@
 {
- "actualizado": "2026-11-11T13:16:58.839457+00:00",
+ "actualizado": "2026-11-11T21:45:08.536822+00:00",
  "noticias": [
+  {
+   "titulo": "Lluvias fuertes amenazan Oaxaca y Veracruz; en la Cuenca del Papaloapan habrá inestabilidad atmosférica",
+   "resumen": "➡️ Veracruz enfrentará lluvias de hasta 75 milímetros en su zona norte, mientras que el noreste de Oaxaca podría registrar precipitaciones de entre 25 y 50 milímetros, acompañadas de actividad eléctri ...",
+   "fuente": "El Piñero",
+   "fecha": "2026-11-11T09:31:00+00:00",
+   "categoria": "Región",
+   "url": "https://www.elpinero.mx/lluvias-fuertes-amenazan-oaxaca-y-veracruz-la-cuenca-del-papaloapan-bajo-vigilancia-por-inestabilidad-atmosferica/",
+   "imagen": "http://www.bing.com/th?id=ONUT.-Kol8xdr7GlBPjsg8-tpqg&pid=News"
+  },
+  {
+   "titulo": "Este miércoles aumenta el potencial de lluvias en Veracruz",
+   "resumen": "XALAPA, Ver., 11 de noviembre de 2026.- A partir de este miércoles, el estado de Veracruz experimentará un aumento en el potencial de lluvias, con acumulados que van de moderados a localmente fuertes, ...",
+   "fuente": "veracruz.quadratin",
+   "fecha": "2026-11-11T08:41:00+00:00",
+   "categoria": "Región",
+   "url": "https://veracruz.quadratin.com.mx/este-miercoles-aumenta-el-potencial-de-lluvias-en-veracruz/",
+   "imagen": "http://www.bing.com/th?id=ONUT.fMu2DvSSq_hL17uETahExw&pid=News"
+  },
+  {
+   "titulo": "Emiten Aviso Especial en Veracruz por evento de norte a partir del jueves",
+   "resumen": "Se emitió el Aviso Especial en Veracruz por potencial de lluvias y tormentas a partir de este día, con tendencia a disminuir el fin de semana, los ...",
+   "fuente": "El Dictamen",
+   "fecha": "2026-11-11T08:30:00+00:00",
+   "categoria": "Región",
+   "url": "https://www.eldictamen.mx/emiten-aviso-especial-en-veracruz-por-evento-de-norte-a-partir-del-jueves/",
+   "imagen": "https://www.eldictamen.mx/wp-content/uploads/2026/10/Norte-en-Veracruz-1-1200x675.webp"
+  },
   {
    "titulo": "Con fideicomiso, Veracruz buscará pagar modernización del transporte público",
    "resumen": "El esquema financiero para modernizar el transporte público en Veracruz contempla que los recursos obtenidos por la operación de estos servicios se distribuyan entre la compra de combustible, el pago ...",
@@ -333,33 +360,6 @@
    "categoria": "Comunidad",
    "url": "https://jornadaveracruz.com.mx/servicio-papaloapan-autobuses-hibridos-cuenca-veracruz/",
    "imagen": "http://www.bing.com/th?id=ONUT.tTfhm9p2vwNauBgZ9Wrcjg&pid=News"
-  },
-  {
-   "titulo": "Inicia operaciones el servicio Papaloapan para movilizar a 60 mil ciudadanos",
-   "resumen": "Seis autobuses híbridos comenzaron a operar el jueves 29 de octubre en tres rutas de transporte público entre Cosamaloapan y Carlos A.",
-   "fuente": "El Dictamen",
-   "fecha": "2026-10-30T09:10:00+00:00",
-   "categoria": "Región",
-   "url": "https://www.eldictamen.mx/inicia-operaciones-el-servicio-papaloapan-para-movilizar-a-60-mil-ciudadanos/",
-   "imagen": "https://www.eldictamen.mx/wp-content/uploads/2026/10/Servicio-Papaloapan-1200x675.webp"
-  },
-  {
-   "titulo": "¡Viernes de contrastes en Oaxaca y Veracruz! Lluvias, calor y fuertes vientos marcarán el clima en la Cuenca del Papaloapan",
-   "resumen": "➡️ El Servicio Meteorológico Nacional prevé chubascos de 5 a 25 milímetros en Oaxaca y lluvias aisladas en Veracruz, mientras que en la Cuenca del Papaloapan podrían registrarse periodos de nubosidad ...",
-   "fuente": "El Piñero",
-   "fecha": "2026-10-30T04:45:00+00:00",
-   "categoria": "Región",
-   "url": "https://www.elpinero.mx/viernes-de-contrastes-en-oaxaca-y-veracruz-lluvias-calor-y-fuertes-vientos-marcaran-el-clima-en-la-cuenca-del-papaloapan/",
-   "imagen": "http://www.bing.com/th?id=ONUT.E-KSv-Qs9YJoAhHb7T5ydA&pid=News"
-  },
-  {
-   "titulo": "Arranca Servicio Papaloapan en esta zona de Veracruz",
-   "resumen": "Estado de Veracruz | Seis autobuses híbridos comenzaron a operar este jueves 29 de octubre en tres rutas de transporte público entre Cosamalo ...",
-   "fuente": "xeu noticias",
-   "fecha": "2026-10-30T03:05:00+00:00",
-   "categoria": "Región",
-   "url": "https://xeu.mx/estado-de-veracruz/1438564/arranca-servicio-papaloapan-en-esta-zona-de-veracruz",
-   "imagen": "http://www.bing.com/th?id=ONUT.kDLZT5pzEV0zPQseEPVwPQ&pid=News"
   }
  ]
 }
