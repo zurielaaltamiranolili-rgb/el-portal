@@ -1,6 +1,15 @@
 {
- "actualizado": "2026-11-11T03:53:42.691909+00:00",
+ "actualizado": "2026-11-11T13:16:58.839457+00:00",
  "noticias": [
+  {
+   "titulo": "Con fideicomiso, Veracruz buscará pagar modernización del transporte público",
+   "resumen": "El esquema financiero para modernizar el transporte público en Veracruz contempla que los recursos obtenidos por la operación de estos servicios se distribuyan entre la compra de combustible, el pago ...",
+   "fuente": "Contralínea",
+   "fecha": "2026-11-10T13:14:00+00:00",
+   "categoria": "Región",
+   "url": "https://contralinea.com.mx/interno/semana/con-fideicomiso-veracruz-buscara-pagar-modernizacion-del-transporte-publico/",
+   "imagen": "http://www.bing.com/th?id=ONUT.mzW1dUpjAc7VVIKsd6hF0w&pid=News"
+  },
   {
    "titulo": "Habrá norte de 70 km/h en Veracruz esta semana",
    "resumen": "El área de Meteorología de la Secretaría de Protección Civil anunció un norte en Veracruz con rachas de hasta 70 km/h.",
@@ -351,15 +360,6 @@
    "categoria": "Región",
    "url": "https://xeu.mx/estado-de-veracruz/1438564/arranca-servicio-papaloapan-en-esta-zona-de-veracruz",
    "imagen": "http://www.bing.com/th?id=ONUT.kDLZT5pzEV0zPQseEPVwPQ&pid=News"
-  },
-  {
-   "titulo": "Rocío Nahle arranca el servicio Papaloapan para atender la movilidad de más de 60 mil usuarios",
-   "resumen": "Con el banderazo de inicio del Servicio Papaloapan, comenzó una nueva etapa para la movilidad en la Cuenca, con la puesta en marcha ...",
-   "fuente": "El Dictamen",
-   "fecha": "2026-10-29T18:35:00+00:00",
-   "categoria": "Región",
-   "url": "https://www.eldictamen.mx/rocio-nahle-arranca-el-servicio-papaloapan-para-atender-la-movilidad-de-mas-de-60-mil-usuarios/",
-   "imagen": "https://www.eldictamen.mx/wp-content/uploads/2026/10/servicio-Papaloapan1-1200x675.webp"
   }
  ]
 }
