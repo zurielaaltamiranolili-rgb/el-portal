@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-11T21:45:08.536822+00:00",
+ "actualizado": "2026-11-12T05:01:52.756859+00:00",
  "noticias": [
   {
    "titulo": "Lluvias fuertes amenazan Oaxaca y Veracruz; en la Cuenca del Papaloapan habrá inestabilidad atmosférica",
@@ -27,6 +27,15 @@
    "categoria": "Región",
    "url": "https://www.eldictamen.mx/emiten-aviso-especial-en-veracruz-por-evento-de-norte-a-partir-del-jueves/",
    "imagen": "https://www.eldictamen.mx/wp-content/uploads/2026/10/Norte-en-Veracruz-1-1200x675.webp"
+  },
+  {
+   "titulo": "Gobierno de Nahle destinará 310 mdp para modernizar el transporte público en Veracruz en 2027",
+   "resumen": "El proyecto de Presupuesto de Egresos enviado al Congreso del Estado, contempla 310 millones de pesos adicionales para modernizar el servicio del transporte público en Veracruz.",
+   "fuente": "La Silla Rota",
+   "fecha": "2026-11-11T02:25:00+00:00",
+   "categoria": "Región",
+   "url": "https://lasillarota.com/veracruz/estado/2026/11/11/gobierno-de-nahle-destinara-310-mdp-para-modernizar-el-transporte-publico-en-veracruz-en-2027-536943.html",
+   "imagen": "http://www.bing.com/th?id=ONUT.8FhhvaVqpTsH34HXBcfVDQ&pid=News"
   },
   {
    "titulo": "Con fideicomiso, Veracruz buscará pagar modernización del transporte público",
@@ -351,15 +360,6 @@
    "categoria": "Región",
    "url": "https://elheraldodeveracruz.com.mx/estatal/114175-inaugura-nahle-arranque-del-servicio-papaloapan.html",
    "imagen": "http://www.bing.com/th?id=ONUT.kZiit7rpgKxDlrfrL3kTgA&pid=News"
-  },
-  {
-   "titulo": "Servicio Papaloapan inicia operaciones con 6 autobuses híbridos para conectar la Cuenca",
-   "resumen": "El Servicio Papaloapan inició operaciones con seis autobuses híbridos para conectar Carlos A. Carrillo, Cosamaloapan y comunidades cercanas.",
-   "fuente": "Jornada Veracruz",
-   "fecha": "2026-10-30T10:18:00+00:00",
-   "categoria": "Comunidad",
-   "url": "https://jornadaveracruz.com.mx/servicio-papaloapan-autobuses-hibridos-cuenca-veracruz/",
-   "imagen": "http://www.bing.com/th?id=ONUT.tTfhm9p2vwNauBgZ9Wrcjg&pid=News"
   }
  ]
 }
