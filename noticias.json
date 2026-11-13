@@ -1,6 +1,24 @@
 {
- "actualizado": "2026-11-13T13:40:45.621127+00:00",
+ "actualizado": "2026-11-13T21:06:23.236240+00:00",
  "noticias": [
+  {
+   "titulo": "Reanuda actividades ingenio San Pedro, en Veracruz, tras cierre de tres meses",
+   "resumen": "Veracruz, Ver., Trabajadores del ingenio San Pedro retomaron actividades en las instalaciones de la fábrica, en el municipio de Lerdo de Tejada, tres meses después del anuncio de su cierre debido a fa ...",
+   "fuente": "La Jornada",
+   "fecha": "2026-11-13T02:00:00+00:00",
+   "categoria": "Región",
+   "url": "https://www.jornada.com.mx/2026/11/13/estados/031n2est",
+   "imagen": "https://www.jornada.com.mx/2026/11/13/fotos/031n2est-1.jpg"
+  },
+  {
+   "titulo": "Frente frío 5 en Veracruz: así estará el clima en Veracruz-Boca del Rio este viernes 13 de noviembre",
+   "resumen": "El evento de Norte continuará con rachas de hasta 70 km/h en las costas de Veracruz, mientras que las lluvias y el descenso de temperatura mantendrán condiciones frescas durante la madrugada.",
+   "fuente": "La Silla Rota",
+   "fecha": "2026-11-12T15:49:00+00:00",
+   "categoria": "Región",
+   "url": "https://lasillarota.com/veracruz/local/2026/11/12/frente-frio-5-en-veracruz-asi-estara-el-clima-en-veracruz-boca-del-rio-este-viernes-13-de-noviembre-537241.html",
+   "imagen": "https://assets.lasillarota.com/social/537241-422a322dea.jpg"
+  },
   {
    "titulo": "¡CAE SECUESTRADOR EN COSAMALOAPAN!",
    "resumen": "Isaías A.D., fue detenido por detectives de la Policía Ministerial en la zona centro de Cosamaloapan, en cumplimiento a una orden de aprehensión por el delito de secuestro. Fue durante la madrugada de ...",
@@ -342,24 +360,6 @@
    "categoria": "Región",
    "url": "https://www.elpinero.mx/lluvias-calor-y-cambios-en-el-clima-frente-frio-4-y-canales-de-baja-presion-influiran-en-oaxaca-veracruz-y-la-cuenca-del-papaloapan/",
    "imagen": "http://www.bing.com/th?id=ONUT.VzQPCLF2uVJysqUHc1uzXw&pid=News"
-  },
-  {
-   "titulo": "Servicio Papaloapan conecta la cuenca con seis unidades",
-   "resumen": "Seis unidades del Servicio Papaloapan conectan a Carlos A. Carrillo y Cosamaloapan mediante tres rutas, con una tarifa anunciada de 15 pesos.",
-   "fuente": "Jornada Veracruz",
-   "fecha": "2026-11-03T08:27:00+00:00",
-   "categoria": "Región",
-   "url": "https://jornadaveracruz.com.mx/servicio-papaloapan-transporte-cuenca-veracruz/",
-   "imagen": "https://jornadaveracruz.com.mx/wp-content/uploads/2026/11/buses-papaloapan.jpg"
-  },
-  {
-   "titulo": "Veracruz: Multan con más de un millón de pesos a alcoholera de Cosamaloapan por contaminación del río Papaloapan",
-   "resumen": "Redaccion Cosamaloapan, Ver.– La Comisión Nacional del Agua (Conagua), en coordinación con la Guardia Nacional, notificó una sanción económica de 1 millón 13 mil 588 pesos a una empresa alcoholera de ...",
-   "fuente": "El Piñero",
-   "fecha": "2026-11-01T19:46:00+00:00",
-   "categoria": "Región",
-   "url": "https://www.elpinero.mx/veracruz-multan-con-mas-de-un-millon-de-pesos-a-alcoholera-de-cosamaloapan-por-contaminacion-del-rio-papaloapan/",
-   "imagen": "http://www.bing.com/th?id=ONUT.w5Da_c9KVnMmMPeeJolU5w&pid=News"
   }
  ]
 }
