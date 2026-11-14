@@ -1,6 +1,15 @@
 {
- "actualizado": "2026-11-14T12:44:57.993618+00:00",
+ "actualizado": "2026-11-14T19:37:51.672686+00:00",
  "noticias": [
+  {
+   "titulo": "Dos frentes fríos alteran el clima del Golfo; Oaxaca y Veracruz enfrentarán lluvias y cambios de temperatura",
+   "resumen": "➡️ El frente frío número 5 favorecerá precipitaciones en el oriente y sur del país, mientras que la entrada de humedad del Pacífico provocará chubascos en Oaxaca y Chiapas, de acuerdo con el Servicio ...",
+   "fuente": "El Piñero",
+   "fecha": "2026-11-14T07:49:00+00:00",
+   "categoria": "Región",
+   "url": "https://www.elpinero.mx/dos-frentes-frios-alteran-el-clima-del-golfo-oaxaca-y-veracruz-enfrentaran-lluvias-y-cambios-de-temperatura/",
+   "imagen": "http://www.bing.com/th?id=ONUT.uI1pQSOfax8tRvX-zUbVbg&pid=News"
+  },
   {
    "titulo": "Norte en Veracruz: Protección Civil pronostica rachas de viento de más de 70 km/h en próximos días y alerta por nuevo frente frío",
    "resumen": "El frente frío número 5 continuará generando lluvias y viento en territorio veracruzano antes de debilitarse sobre el suroeste del Golfo de México ...",
@@ -351,15 +360,6 @@
    "categoria": "Región",
    "url": "https://www.elbuentono.com.mx/localizan-con-vida-a-los-2-traileros-desaparecidos-tras-asalto-en-cosamaloapan/",
    "imagen": "http://www.bing.com/th?id=ONUT.3Jk9Z5Onz9LF4VDUmmeviw&pid=News"
-  },
-  {
-   "titulo": "Localizan con vida a Gabriel y Diego, traileros desaparecidos tras asalto en gasolinera de Veracruz",
-   "resumen": "Familiares confirmaron que los dos operadores de transporte de carga fueron encontrados este jueves 5 de noviembre, luego de que se difundiera su búsqueda en redes sociales.",
-   "fuente": "Imagen de Veracruz",
-   "fecha": "2026-11-05T09:59:00+00:00",
-   "categoria": "Región",
-   "url": "https://imagendeveracruz.mx/estado/localizan-con-vida-a-gabriel-y-diego-traileros-desaparecidos-tras-asalto-en-gasolinera-de-veracruz-20261105-0030.html",
-   "imagen": "http://www.bing.com/th?id=ONUT.GP3ZddRs9cw_DqICxBECzw&pid=News"
   }
  ]
 }
