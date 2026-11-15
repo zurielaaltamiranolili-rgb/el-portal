@@ -1,6 +1,15 @@
 {
- "actualizado": "2026-11-15T00:33:46.125582+00:00",
+ "actualizado": "2026-11-15T10:12:00.776337+00:00",
  "noticias": [
+  {
+   "titulo": "A esta hora impactarán lluvias y Norte de hasta 80 km/h en Veracruz este lunes 16 de noviembre",
+   "resumen": "El frente frío número 5 será reforzado por otro sistema frontal, lo que favorecerá lluvias en distintas regiones de Veracruz y un evento de Norte con rachas de hasta 80 km/h ...",
+   "fuente": "Imagen de Veracruz",
+   "fecha": "2026-11-14T19:09:00+00:00",
+   "categoria": "Región",
+   "url": "https://imagendeveracruz.mx/estado/a-esta-hora-impactaran-lluvias-y-norte-de-hasta-80-kmh-en-veracruz-este-lunes-16-de-noviembre-por-frente-frio-20261114-0061.html",
+   "imagen": "http://www.bing.com/th?id=ONUT.KmAidF36WpdUL4PpUGMDmQ&pid=News"
+  },
   {
    "titulo": "Dos frentes fríos alteran el clima del Golfo; Oaxaca y Veracruz enfrentarán lluvias y cambios de temperatura",
    "resumen": "➡️ El frente frío número 5 favorecerá precipitaciones en el oriente y sur del país, mientras que la entrada de humedad del Pacífico provocará chubascos en Oaxaca y Chiapas, de acuerdo con el Servicio ...",
@@ -351,15 +360,6 @@
    "categoria": "Región",
    "url": "https://www.elpinero.mx/frente-frio-4-golpeara-con-lluvias-viento-y-descenso-de-temperatura-a-veracruz-y-oaxaca-la-cuenca-del-papaloapan-bajo-vigilancia/",
    "imagen": "http://www.bing.com/th?id=ONUT.w7cmFXahio2f18UbJSyjSA&pid=News"
-  },
-  {
-   "titulo": "Motociclista resulta gravemente herido tras impactarse contra taxi en Carlos A. Carrillo, Veracruz",
-   "resumen": "Un aparatoso accidente vehicular registrado en la carretera federal 175 tramo Tlacotalpan-Cosamaloapan a la altura de Carlos A. Carrillo dejó como saldo a un joven de 19 años hospitalizado con lesione ...",
-   "fuente": "Imagen de Veracruz",
-   "fecha": "2026-11-05T16:00:00+00:00",
-   "categoria": "Seguridad",
-   "url": "https://imagendeveracruz.mx/policiaca/motociclista-resulta-gravemente-herido-tras-impactarse-contra-taxi-en-carlos-a.-carrillo-veracruz-20261106-0004.html",
-   "imagen": "http://www.bing.com/th?id=ONUT.fcj9_P1F-SDMH5eHy1BSSg&pid=News"
   }
  ]
 }
