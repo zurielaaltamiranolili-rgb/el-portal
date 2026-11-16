@@ -1,6 +1,15 @@
 {
- "actualizado": "2026-11-16T00:33:26.468633+00:00",
+ "actualizado": "2026-11-16T10:24:21.412876+00:00",
  "noticias": [
+  {
+   "titulo": "Veracruz tendrá Norte y tormentas por frente frío 6 esta semana; así estará el clima",
+   "resumen": "Protección Civil activó la Alerta Gris ante el fortalecimiento del sistema frontal, que también ocasionará lluvias, tormentas eléctricas y descenso de temperatura en distintas regiones de Veracruz.",
+   "fuente": "Imagen de Veracruz",
+   "fecha": "2026-11-15T16:00:00+00:00",
+   "categoria": "Región",
+   "url": "https://imagendeveracruz.mx/veracruz/norte-en-veracruz-alertan-por-rachas-de-mas-de-80-kmh-este-lunes-16-de-noviembre-por-frente-frio-6-preven-tormentas-20261116-0005.html",
+   "imagen": "http://www.bing.com/th?id=ONUT.7eEL7v24mi6VNPwz1WJfww&pid=News"
+  },
   {
    "titulo": "A esta hora impactarán lluvias y Norte de hasta 80 km/h en Veracruz este lunes 16 de noviembre",
    "resumen": "El frente frío número 5 será reforzado por otro sistema frontal, lo que favorecerá lluvias en distintas regiones de Veracruz y un evento de Norte con rachas de hasta 80 km/h ...",
@@ -351,15 +360,6 @@
    "categoria": "Región",
    "url": "https://www.radioformula.com.mx/seguridad/detienen-en-veracruz-a-gloria-priscila-n-exregidora-morenista-y-funcionaria-municipal-20261106-0073.html",
    "imagen": "http://www.bing.com/th?id=ONUT.aCSbLhUqVUekueurrTVONg&pid=News"
-  },
-  {
-   "titulo": "Frente frío 4 golpeará con lluvias, viento y descenso de temperatura a Veracruz y Oaxaca; la Cuenca del Papaloapan, bajo vigilancia",
-   "resumen": "➡️ El sistema frontal, reforzado por una masa de aire frío, provocará condiciones de inestabilidad en el oriente y sureste de México, con lluvias que podrían intensificarse en distintas regiones de Ve ...",
-   "fuente": "El Piñero",
-   "fecha": "2026-11-06T09:28:00+00:00",
-   "categoria": "Región",
-   "url": "https://www.elpinero.mx/frente-frio-4-golpeara-con-lluvias-viento-y-descenso-de-temperatura-a-veracruz-y-oaxaca-la-cuenca-del-papaloapan-bajo-vigilancia/",
-   "imagen": "http://www.bing.com/th?id=ONUT.w7cmFXahio2f18UbJSyjSA&pid=News"
   }
  ]
 }
