@@ -1,6 +1,15 @@
 {
- "actualizado": "2026-11-16T21:27:08.167732+00:00",
+ "actualizado": "2026-11-17T05:50:12.265405+00:00",
  "noticias": [
+  {
+   "titulo": "Auto embiste a empleada de Coppel en Cosamaloapan, Veracruz",
+   "resumen": "La mujer salió de la tienda por su hora de comida cuando fue impactada sobre el bulevar Miguel Alemán en Cosamaloapan ...",
+   "fuente": "Imagen de Veracruz",
+   "fecha": "2026-11-16T16:17:00+00:00",
+   "categoria": "Región",
+   "url": "https://imagendeveracruz.mx/policiaca/auto-embiste-a-empleada-de-coppel-en-cosamaloapan-veracruz-20261116-0060.html",
+   "imagen": "http://www.bing.com/th?id=ONUT.IkyvtBk8l-7ZjW97VslPtQ&pid=News"
+  },
   {
    "titulo": "Frente frío 6 provocará lluvias intensas y fuertes rachas de viento en Veracruz; activan Alerta Gris",
    "resumen": "Dichos sistemas favorecerán en las siguientes 24 horas el aumento significativo del potencial de lluvias y tormentas ...",
@@ -351,15 +360,6 @@
    "categoria": "Región",
    "url": "https://www.milenio.com/estados/detienen-a-exregidora-de-morena-de-tierra-blanca-en-veracruz",
    "imagen": "http://www.bing.com/th?id=ONUT.jePtX9uT3Qwned4WR1h6iA&pid=News"
-  },
-  {
-   "titulo": "Ligan a Priscila Carrera Illescas, exregidora de Veracruz, con jefe de plaza del CJNG en la Cuenca del Papaloapan",
-   "resumen": "Carrera Illescas pasó de ocupar una regiduría por Morena en Tierra Blanca a desempeñar un cargo en el ayuntamiento de Tres Valles ...",
-   "fuente": "Vanguardia MX",
-   "fecha": "2026-11-07T06:33:00+00:00",
-   "categoria": "Comunidad",
-   "url": "https://vanguardia.com.mx/noticias/mexico/ligan-a-priscila-carrera-illescas-exregidora-de-veracruz-con-jefe-de-plaza-del-cjng-en-la-cuenca-del-papaloapan-HF24657891",
-   "imagen": "https://vanguardia.com.mx/binrepository/1200x761/0c13/1200d630/down-right/11604/YIII/ligan-a-priscila-carrera-illescas-e_1-18417174_20261107203243.jpg"
   }
  ]
 }
