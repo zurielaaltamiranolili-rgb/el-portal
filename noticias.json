@@ -1,6 +1,15 @@
 {
- "actualizado": "2026-11-17T05:50:12.265405+00:00",
+ "actualizado": "2026-11-17T15:14:40.080377+00:00",
  "noticias": [
+  {
+   "titulo": "Puerto de Veracruz, cerrado a la navegación por Norte",
+   "resumen": "Veracruz Puerto | La Capitanía de Puerto de Veracruz informó que permanecen cerradas las bahías Norte y Sur a la navegación mayor y menor ...",
+   "fuente": "xeu noticias",
+   "fecha": "2026-11-16T22:36:00+00:00",
+   "categoria": "Región",
+   "url": "https://xeu.mx/veracruz/1440573/puerto-de-veracruz-cerrado-a-la-navegacin-por-norte",
+   "imagen": "http://www.bing.com/th?id=ONUT.pIc51kZ-233m3WBtO_xk_A&pid=News"
+  },
   {
    "titulo": "Auto embiste a empleada de Coppel en Cosamaloapan, Veracruz",
    "resumen": "La mujer salió de la tienda por su hora de comida cuando fue impactada sobre el bulevar Miguel Alemán en Cosamaloapan ...",
@@ -351,15 +360,6 @@
    "categoria": "Seguridad",
    "url": "https://www.reforma.com/ligan-a-ex-regidora-de-veracruz-con-jefe-de-plaza-del-cjng/ar3310179",
    "imagen": "https://iphonegr.reforma.com/libre/online07/imagetransformer2/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/7/317/6316211.jpg&maxwidth=960&maxheight=640&imgWatermark=https://www.reforma.com/libre/imgdiseno/mailsharing/marca_agua.png&transparencia=0.9&centerWM=0"
-  },
-  {
-   "titulo": "Detienen a exregidora de Morena de Tierra Blanca, Veracruz, y 5 trabajadores del IMSS",
-   "resumen": "Detienen a exregidora de Morena y a 5 empleados del IMSS en operativo en Veracruz. Entre ellos está el director de la UMF 61 de Córdoba.",
-   "fuente": "Milenio",
-   "fecha": "2026-11-07T08:00:00+00:00",
-   "categoria": "Región",
-   "url": "https://www.milenio.com/estados/detienen-a-exregidora-de-morena-de-tierra-blanca-en-veracruz",
-   "imagen": "http://www.bing.com/th?id=ONUT.jePtX9uT3Qwned4WR1h6iA&pid=News"
   }
  ]
 }
