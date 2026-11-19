@@ -1,6 +1,24 @@
 {
- "actualizado": "2026-11-19T10:57:15.058899+00:00",
+ "actualizado": "2026-11-19T19:47:08.000058+00:00",
  "noticias": [
+  {
+   "titulo": "Lluvias fuertes y vientos de hasta 80 km/h sacudirán Oaxaca y Veracruz; la Cuenca del Papaloapan, entre las regiones más afectadas",
+   "resumen": "➡️ La Cuenca del Papaloapan se encuentra entre las regiones con pronóstico de precipitaciones importantes, mientras que en Veracruz persiste el riesgo de encharcamientos, crecidas de arroyos y afectac ...",
+   "fuente": "El Piñero",
+   "fecha": "2026-11-19T03:53:00+00:00",
+   "categoria": "Región",
+   "url": "https://www.elpinero.mx/lluvias-fuertes-y-vientos-de-hasta-80-km-h-sacudiran-oaxaca-y-veracruz-la-cuenca-del-papaloapan-entre-las-regiones-mas-afectadas/",
+   "imagen": "http://www.bing.com/th?id=ONUT.KnSAzFsRGKqzCYmqJ1mh8g&pid=News"
+  },
+  {
+   "titulo": "El río Papaloapan; el gigante veracruzano donde la marea puede hacer que el agua avance en sentido contrario",
+   "resumen": "Tlacotalpan, Ver.- En Veracruz existe un fenómeno natural que puede parecer contrario a las leyes de la naturaleza; un río cuyas corrientes pueden cambiar de dirección por efecto de las mareas.Se trat ...",
+   "fuente": "cambiodigitalnoticias",
+   "fecha": "2026-11-19T00:36:00+00:00",
+   "categoria": "Región",
+   "url": "https://cambiodigitalnoticias.com/el-rio-papaloapan-el-gigante-veracruzano-donde-la-marea-puede-hacer-que-el-agua-avance-en-sentido-contrario/",
+   "imagen": "http://www.bing.com/th?id=ONUT.GCYKqUF9FR6iAciHyb39Wg&pid=News"
+  },
   {
    "titulo": "Clima en Veracruz: temperaturas, viento y lluvias para este miércoles",
    "resumen": "El frente frío número 6 mantendrá condiciones meteorológicas variables en Veracruz durante este miércoles 18 de noviembre. Mientras el viento del ...",
@@ -342,24 +360,6 @@
    "categoria": "Región",
    "url": "https://www.elpinero.mx/lluvias-y-aire-frio-ponen-bajo-vigilancia-a-veracruz-y-la-cuenca-del-papaloapan-oaxaca-tendra-condiciones-de-inestabilidad/",
    "imagen": ""
-  },
-  {
-   "titulo": "Pronóstico del clima para Veracruz y la región HOY 10 de noviembre de 2026 por Isidro Cano Luna",
-   "resumen": "La afluencia de ai re húmedo proveniente del Golfo de Tehuantepec, que después de recorrer la región ístmica toma rumbo hacia el sur y centro del estado de Veracruz, favorece esta mañana el desarrollo ...",
-   "fuente": "Imagen de Veracruz",
-   "fecha": "2026-11-10T03:00:00+00:00",
-   "categoria": "Región",
-   "url": "https://imagendeveracruz.mx/veracruz/pronostico-del-clima-para-veracruz-y-la-region-hoy-10-de-noviembre-de-2026-por-isidro-cano-luna-20261110-0013.html",
-   "imagen": "http://www.bing.com/th?id=ONUT.1nKwOPj1JN_oWqR3Mht30Q&pid=News"
-  },
-  {
-   "titulo": "Trabajadores del INE en Cosamaloapan se suman a paro de labores; exigen mejores condiciones laborales en Veracruz",
-   "resumen": "Este lunes 9 de noviembre, trabajadores el Instituto Nacional Electoral iniciaron un paro nacional para exigir aumento laboral.",
-   "fuente": "Imagen de Veracruz",
-   "fecha": "2026-11-09T13:42:00+00:00",
-   "categoria": "Región",
-   "url": "https://imagendeveracruz.mx/estado/trabajadores-del-ine-en-cosamaloapan-se-suman-a-paro-de-labores-exigen-mejores-condiciones-laborales-en-veracruz-20261109-0081.html",
-   "imagen": "http://www.bing.com/th?id=ONUT.QJgOyvJ3oaFTfapYeIRHfQ&pid=News"
   }
  ]
 }
