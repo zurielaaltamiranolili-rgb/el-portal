@@ -1,6 +1,15 @@
 {
- "actualizado": "2026-11-20T10:45:23.791907+00:00",
+ "actualizado": "2026-11-20T19:27:40.390483+00:00",
  "noticias": [
+  {
+   "titulo": "¿Un pterodáctilo sobre el río Papaloapan? Captan extraña criatura voladora tras fuertes lluvias en Veracruz",
+   "resumen": "Un nuevo y misterioso avistamiento ha causado revuelo en redes sociales, luego de que se difundiera un video en el que supuestamente aparece un pterodáctilo ...",
+   "fuente": "El Diario",
+   "fecha": "2026-11-20T03:07:00+00:00",
+   "categoria": "Región",
+   "url": "https://diario.mx/viral/2026/nov/20/un-pterodactilo-sobre-el-rio-papaloapan-captan-extrana-criatura-voladora-tras-fuertes-lluvias-en-veracruz-1149649.html",
+   "imagen": "http://www.bing.com/th?id=ONUT.fBM2yJZ4ERf3H8-GqxLn5Q&pid=News"
+  },
   {
    "titulo": "Lluvias fuertes y vientos de hasta 80 km/h sacudirán Oaxaca y Veracruz; la Cuenca del Papaloapan, entre las regiones más afectadas",
    "resumen": "➡️ La Cuenca del Papaloapan se encuentra entre las regiones con pronóstico de precipitaciones importantes, mientras que en Veracruz persiste el riesgo de encharcamientos, crecidas de arroyos y afectac ...",
@@ -351,15 +360,6 @@
    "categoria": "Región",
    "url": "https://www.sdpnoticias.com/estados/veracruz/veracruz-moderniza-el-transporte-publico-con-nuevos-servicios-y-sin-generar-deuda/",
    "imagen": "http://www.bing.com/th?id=ONUT.2sATg05qCSU3jT7CbcU9NA&pid=News"
-  },
-  {
-   "titulo": "Lluvias y aire frío ponen bajo vigilancia a Veracruz y la Cuenca del Papaloapan; Oaxaca tendrá condiciones de inestabilidad",
-   "resumen": "➡️ Veracruz enfrentará lluvias fuertes por la presencia de un canal de baja presión, mientras que en la Cuenca del Papaloapan podrían registrarse precipitaciones, aumento de nubosidad y cambios en las ...",
-   "fuente": "El Piñero",
-   "fecha": "2026-11-10T03:31:00+00:00",
-   "categoria": "Región",
-   "url": "https://www.elpinero.mx/lluvias-y-aire-frio-ponen-bajo-vigilancia-a-veracruz-y-la-cuenca-del-papaloapan-oaxaca-tendra-condiciones-de-inestabilidad/",
-   "imagen": ""
   }
  ]
 }
