@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-21T10:29:35.137695+00:00",
+ "actualizado": "2026-11-21T18:29:09.288464+00:00",
  "noticias": [
   {
    "titulo": "Suspenden desfile por Aniversario de la Revolución en Papaloapan por balacera; hay un muerto y 2 detenidos",
@@ -9,6 +9,15 @@
    "categoria": "Seguridad",
    "url": "https://heraldodemexico.com.mx/nacional/2026/11/20/suspenden-desfile-por-aniversario-de-la-revolucion-en-papaloapan-por-balacera-hay-un-muerto-y-2-detenidos-2921974.html",
    "imagen": "http://www.bing.com/th?id=ONUT.i9XQWv89yKHz2lxNncHPvQ&pid=News"
+  },
+  {
+   "titulo": "El “destape” de Javier Herrera Borunda en Veracruz",
+   "resumen": "Ricardo Chua Ayer quedó claro en Veracruz, que Javier Herrera Borunda vino al distrito de la Cuenca del Papaloapan.. A repetir la hazaña que hizo su padre, el ex gobernador Fidel Herrera Beltrán, en e ...",
+   "fuente": "NV Noticias",
+   "fecha": "2026-11-20T16:00:00+00:00",
+   "categoria": "Región",
+   "url": "https://nvnoticias.mx/index.php/2026/11/21/el-destape-de-javier-herrera-borunda-en-veracruz/",
+   "imagen": "http://www.bing.com/th?id=ONUT.qXeXnjvPoCGDO7cLZvgjbA&pid=News"
   },
   {
    "titulo": "Enfrentamiento armado interrumpe desfile de la Revolución Mexicana en un municipio de Veracruz; se reporta un muerto",
@@ -351,15 +360,6 @@
    "categoria": "Región",
    "url": "https://lasillarota.com/veracruz/estado/2026/11/11/gobierno-de-nahle-destinara-310-mdp-para-modernizar-el-transporte-publico-en-veracruz-en-2027-536943.html",
    "imagen": "http://www.bing.com/th?id=ONUT.8FhhvaVqpTsH34HXBcfVDQ&pid=News"
-  },
-  {
-   "titulo": "Con fideicomiso, Veracruz buscará pagar modernización del transporte público",
-   "resumen": "El esquema financiero para modernizar el transporte público en Veracruz contempla que los recursos obtenidos por la operación de estos servicios se distribuyan entre la compra de combustible, el pago ...",
-   "fuente": "Contralínea",
-   "fecha": "2026-11-10T13:14:00+00:00",
-   "categoria": "Región",
-   "url": "https://contralinea.com.mx/interno/semana/con-fideicomiso-veracruz-buscara-pagar-modernizacion-del-transporte-publico/",
-   "imagen": "http://www.bing.com/th?id=ONUT.mzW1dUpjAc7VVIKsd6hF0w&pid=News"
   }
  ]
 }
