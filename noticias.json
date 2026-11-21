@@ -1,6 +1,24 @@
 {
- "actualizado": "2026-11-20T19:27:40.390483+00:00",
+ "actualizado": "2026-11-21T01:53:25.758828+00:00",
  "noticias": [
+  {
+   "titulo": "Enfrentamiento armado interrumpe desfile de la Revolución Mexicana en un municipio de Veracruz; se reporta un muerto",
+   "resumen": "El tiroteo ocurrió cerca del campo deportivo Fernando Díaz Montalvo, muy cerca de Palacio Municipal y provocó la huida de asistentes de la celebración ...",
+   "fuente": "LatinUS",
+   "fecha": "2026-11-20T11:15:00+00:00",
+   "categoria": "Deportes",
+   "url": "https://latinus.us/mexico/2026/11/20/enfrentamiento-armado-interrumpe-desfile-de-la-revolucion-mexicana-en-un-municipio-de-veracruz-se-reporta-un-muerto-182990.html",
+   "imagen": "http://www.bing.com/th?id=ONUT.b6LXec0wWG2k2pQRZaGHnQ&pid=News"
+  },
+  {
+   "titulo": "¡BRUTAL! Revela VIDEO de la FUERTE BALACERA en Carlos A. Carrillo, Veracruz; esto se sabe",
+   "resumen": "Durante la tarde de este viernes 20 de noviembre del 2026 se registró una fuerte balacera en el municipio de Carlos A. Carrillo, en la zona de la Cuenca del Papaloapan del estado de Veracruz.",
+   "fuente": "TV Azteca Veracruz",
+   "fecha": "2026-11-20T07:07:00+00:00",
+   "categoria": "Región",
+   "url": "https://www.aztecaveracruz.com/noticias/que-se-sabe-del-enfrentamiento-en-carlos-a-carrillo-veracruz/",
+   "imagen": "http://www.bing.com/th?id=ONUT.45KbCbiU-bCxykN_aIe1Mw&pid=News"
+  },
   {
    "titulo": "¿Un pterodáctilo sobre el río Papaloapan? Captan extraña criatura voladora tras fuertes lluvias en Veracruz",
    "resumen": "Un nuevo y misterioso avistamiento ha causado revuelo en redes sociales, luego de que se difundiera un video en el que supuestamente aparece un pterodáctilo ...",
@@ -342,24 +360,6 @@
    "categoria": "Región",
    "url": "https://www.eldictamen.mx/habra-norte-de-70-km-h-en-veracruz-esta-semana/",
    "imagen": "https://www.eldictamen.mx/wp-content/uploads/2026/02/Frio-norte-Veracruz-1200x675.webp"
-  },
-  {
-   "titulo": "Prevén incremento de lluvias en Veracruz",
-   "resumen": "De acuerdo con el informe meteorológico emitido por la Secretaría de Protección Civil del Estado de Veracruz para este martes 10 de noviembre, ...",
-   "fuente": "MEGANOTICIAS",
-   "fecha": "2026-11-10T08:03:00+00:00",
-   "categoria": "Región",
-   "url": "https://www.meganoticias.mx/tuxpan/noticia/prevén-incremento-de-lluvias-en-veracruz/787151",
-   "imagen": "http://www.bing.com/th?id=ONUT.qoeri91ttWYo9A0p9bLXdw&pid=News"
-  },
-  {
-   "titulo": "Veracruz moderniza el transporte público con nuevos servicios y sin generar deuda",
-   "resumen": "Veracruz moderniza el transporte público con cinco servicios, incluido Atenas en Xalapa, bajo un esquema que busca recuperar la inversión sin generar deuda.",
-   "fuente": "sdpnoticias",
-   "fecha": "2026-11-10T05:22:00+00:00",
-   "categoria": "Región",
-   "url": "https://www.sdpnoticias.com/estados/veracruz/veracruz-moderniza-el-transporte-publico-con-nuevos-servicios-y-sin-generar-deuda/",
-   "imagen": "http://www.bing.com/th?id=ONUT.2sATg05qCSU3jT7CbcU9NA&pid=News"
   }
  ]
 }
