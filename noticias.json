@@ -1,6 +1,15 @@
 {
- "actualizado": "2026-11-21T01:53:25.758828+00:00",
+ "actualizado": "2026-11-21T10:29:35.137695+00:00",
  "noticias": [
+  {
+   "titulo": "Suspenden desfile por Aniversario de la Revolución en Papaloapan por balacera; hay un muerto y 2 detenidos",
+   "resumen": "La disputa se originó cuando policías realizaban labores de investigación de un inmueble presuntamente utilizado como casa de seguridad.",
+   "fuente": "El Heraldo de México",
+   "fecha": "2026-11-20T21:53:00+00:00",
+   "categoria": "Seguridad",
+   "url": "https://heraldodemexico.com.mx/nacional/2026/11/20/suspenden-desfile-por-aniversario-de-la-revolucion-en-papaloapan-por-balacera-hay-un-muerto-y-2-detenidos-2921974.html",
+   "imagen": "http://www.bing.com/th?id=ONUT.i9XQWv89yKHz2lxNncHPvQ&pid=News"
+  },
   {
    "titulo": "Enfrentamiento armado interrumpe desfile de la Revolución Mexicana en un municipio de Veracruz; se reporta un muerto",
    "resumen": "El tiroteo ocurrió cerca del campo deportivo Fernando Díaz Montalvo, muy cerca de Palacio Municipal y provocó la huida de asistentes de la celebración ...",
@@ -351,15 +360,6 @@
    "categoria": "Región",
    "url": "https://contralinea.com.mx/interno/semana/con-fideicomiso-veracruz-buscara-pagar-modernizacion-del-transporte-publico/",
    "imagen": "http://www.bing.com/th?id=ONUT.mzW1dUpjAc7VVIKsd6hF0w&pid=News"
-  },
-  {
-   "titulo": "Habrá norte de 70 km/h en Veracruz esta semana",
-   "resumen": "El área de Meteorología de la Secretaría de Protección Civil anunció un norte en Veracruz con rachas de hasta 70 km/h.",
-   "fuente": "El Dictamen",
-   "fecha": "2026-11-10T08:57:00+00:00",
-   "categoria": "Región",
-   "url": "https://www.eldictamen.mx/habra-norte-de-70-km-h-en-veracruz-esta-semana/",
-   "imagen": "https://www.eldictamen.mx/wp-content/uploads/2026/02/Frio-norte-Veracruz-1200x675.webp"
   }
  ]
 }
