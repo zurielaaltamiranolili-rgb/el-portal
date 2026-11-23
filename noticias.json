@@ -1,6 +1,33 @@
 {
- "actualizado": "2026-11-23T11:33:16.611774+00:00",
+ "actualizado": "2026-11-23T23:06:48.493082+00:00",
  "noticias": [
+  {
+   "titulo": "Frente frío 8 traerá lluvias intensas a Veracruz y fuertes a Oaxaca; la Cuenca del Papaloapan, deberá extremar precauciones",
+   "resumen": "➡️ Veracruz podría registrar acumulados de hasta 150 milímetros de lluvia, principalmente en sus regiones norte y centro, mientras que en el norte y oriente de Oaxaca se esperan precipitaciones de 25 ...",
+   "fuente": "El Piñero",
+   "fecha": "2026-11-23T09:47:00+00:00",
+   "categoria": "Región",
+   "url": "https://www.elpinero.mx/frente-frio-8-traera-lluvias-intensas-a-veracruz-y-fuertes-a-oaxaca-la-cuenca-del-papaloapan-debera-extremar-precauciones/",
+   "imagen": "http://www.bing.com/th?id=ONUT.JGmOgII8jb2AbmomQIovcg&pid=News"
+  },
+  {
+   "titulo": "Supervisa Nahle patio de maniobras del Sistema de Movilidad de Veracruz",
+   "resumen": "XALAPA, Ver., 23 de noviembre de 2026.- La gobernadora Rocío Nahle dijo que este fin de semana supervisó, en el puerto de Veracruz, el patio de maniobras del Sistema de Movilidad de Veracruz, que dará ...",
+   "fuente": "Quadratín Veracruz",
+   "fecha": "2026-11-23T01:37:00+00:00",
+   "categoria": "Comunidad",
+   "url": "https://veracruz.quadratin.com.mx/supervisa-nahle-patio-de-maniobras-del-sistema-de-movilidad-de-veracruz/",
+   "imagen": "http://www.bing.com/th?id=ONUT.iCR7ZaecHPE-rHOCq_cQVA&pid=News"
+  },
+  {
+   "titulo": "¿Un pterodáctilo sobre el río Papaloapan? Captan extraña criatura voladora tras fuertes lluvias en Veracruz",
+   "resumen": "Un nuevo y misterioso avistamiento ha causado revuelo en redes sociales, luego de que se difundiera un video en el que supuestamente aparece un pterodáctilo ...",
+   "fuente": "El Diario de Chihuahua",
+   "fecha": "2026-11-23T00:30:00+00:00",
+   "categoria": "Región",
+   "url": "https://www.eldiariodechihuahua.mx/viral/2026/nov/23/un-pterodactilo-sobre-el-rio-papaloapan-captan-extrana-criatura-voladora-tras-fuertes-lluvias-en-veracruz-859918.html",
+   "imagen": "http://www.bing.com/th?id=ONUT.9hHZPJRZqCNMvIp6fk8dJw&pid=News"
+  },
   {
    "titulo": "Refuerza Ayuntamiento de Veracruz la seguridad vial",
    "resumen": "VERACRUZ, Ver., 22 de noviembre de 2026.- Para fortalecer la seguridad de peatones y automovilistas, la alcaldesa Rosa María Hernández Espejo instruyó reforzar los trabajos de mantenimiento preventivo ...",
@@ -72,15 +99,6 @@
    "categoria": "Región",
    "url": "https://www.aztecaveracruz.com/noticias/que-se-sabe-del-enfrentamiento-en-carlos-a-carrillo-veracruz/",
    "imagen": "http://www.bing.com/th?id=ONUT.45KbCbiU-bCxykN_aIe1Mw&pid=News"
-  },
-  {
-   "titulo": "¿Un pterodáctilo sobre el río Papaloapan? Captan extraña criatura voladora tras fuertes lluvias en Veracruz",
-   "resumen": "Un nuevo y misterioso avistamiento ha causado revuelo en redes sociales, luego de que se difundiera un video en el que supuestamente aparece un pterodáctilo ...",
-   "fuente": "El Diario",
-   "fecha": "2026-11-20T03:07:00+00:00",
-   "categoria": "Región",
-   "url": "https://diario.mx/viral/2026/nov/20/un-pterodactilo-sobre-el-rio-papaloapan-captan-extrana-criatura-voladora-tras-fuertes-lluvias-en-veracruz-1149649.html",
-   "imagen": "http://www.bing.com/th?id=ONUT.fBM2yJZ4ERf3H8-GqxLn5Q&pid=News"
   },
   {
    "titulo": "Lluvias fuertes y vientos de hasta 80 km/h sacudirán Oaxaca y Veracruz; la Cuenca del Papaloapan, entre las regiones más afectadas",
@@ -342,24 +360,6 @@
    "categoria": "Región",
    "url": "https://www.masnoticias.mx/presas-mantienen-niveles-estables-y-descartan-desfogues-al-rio-papaloapan/",
    "imagen": "http://www.bing.com/th?id=ONUT.aysIgmpaSUKl_yAvfiZ_7Q&pid=News"
-  },
-  {
-   "titulo": "Tras tres meses de cierre, trabajadores reactivan el ingenio San Pedro en Veracruz",
-   "resumen": "Tras tres meses de cierre, 700 trabajadores del ingenio San Pedro en Veracruz retomaron labores; un fideicomiso de trabajadores y productores administrará la fábrica.",
-   "fuente": "La Jornada",
-   "fecha": "2026-11-12T09:04:00+00:00",
-   "categoria": "Región",
-   "url": "https://www.jornada.com.mx/noticia/2026/11/12/estados/tras-tres-meses-de-cierre-trabajadores-reactivan-el-ingenio-san-pedro-en-veracruz",
-   "imagen": "http://www.bing.com/th?id=ONUT.I8epnGDAluARV7Y9k1H9cw&pid=News"
-  },
-  {
-   "titulo": "#Video: Gobernadora de Veracruz destaca la importancia de la reactivación del Ingenio San Pedro",
-   "resumen": "Esta mañana la Gobernadora de Veracruz Rocío Nahle García detalló que el Ingenio San Pedro retoma actividades tras tres meses del anuncio de cierre. Un l ...",
-   "fuente": "billieparkernoticias.com",
-   "fecha": "2026-11-12T04:00:00+00:00",
-   "categoria": "Región",
-   "url": "https://billieparkernoticias.com/video-gobernadora-de-veracruz-destaca-la-importancia-de-la-reactivacion-del-ingenio-san-pedro/",
-   "imagen": "http://www.bing.com/th?id=ONUT.dMJ_AKCGXqv39MMzDfsxtA&pid=News"
   }
  ]
 }
