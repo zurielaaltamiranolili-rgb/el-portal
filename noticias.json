@@ -1,6 +1,15 @@
 {
- "actualizado": "2026-11-24T07:43:12.026577+00:00",
+ "actualizado": "2026-11-24T19:49:50.782368+00:00",
  "noticias": [
+  {
+   "titulo": "Alerta Gris: así estará el clima en Veracruz-Boca del Río este martes 24 de noviembre",
+   "resumen": "VERACRUZ, VER. - El paso del frente frío número 8 provocará lluvias, tormentas dispersas, fuertes rachas de viento del Norte y un marcado descenso ...",
+   "fuente": "La Silla Rota",
+   "fecha": "2026-11-23T15:03:00+00:00",
+   "categoria": "Región",
+   "url": "https://lasillarota.com/veracruz/local/2026/11/23/alerta-gris-asi-estara-el-clima-en-veracruz-boca-del-rio-este-martes-24-de-noviembre-538683.html",
+   "imagen": "http://www.bing.com/th?id=ONUT.V8R1T46huqEXj6AMaatc2Q&pid=News"
+  },
   {
    "titulo": "Norte se intensificaría en Veracruz; esto se pronostica",
    "resumen": "Boca del Río | El frente frío número 8, acompañado de una masa de aire frío, provocará lluvias, descenso de temperatura y un evento de ...",
@@ -351,15 +360,6 @@
    "categoria": "Región",
    "url": "https://lasillarota.com/veracruz/local/2026/11/12/frente-frio-5-en-veracruz-asi-estara-el-clima-en-veracruz-boca-del-rio-este-viernes-13-de-noviembre-537241.html",
    "imagen": "https://assets.lasillarota.com/social/537241-422a322dea.jpg"
-  },
-  {
-   "titulo": "Frente frío en Veracruz: los 54 municipios con las lluvias más fuertes el 12 y 13 de noviembre",
-   "resumen": "El frente frío 5 provocará lluvias en 54 municipios de Veracruz y rachas de Norte de hasta 70 km/h en zonas costeras.",
-   "fuente": "La Silla Rota",
-   "fecha": "2026-11-12T10:37:00+00:00",
-   "categoria": "Región",
-   "url": "https://lasillarota.com/veracruz/estado/2026/11/12/frente-frio-en-veracruz-los-54-municipios-con-las-lluvias-mas-fuertes-el-12-y-13-de-noviembre-537200.html",
-   "imagen": "http://www.bing.com/th?id=ONUT._b-HUxEE-_Fsvhwd3G4TBg&pid=News"
   }
  ]
 }
