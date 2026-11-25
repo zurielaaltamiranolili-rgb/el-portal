@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-25T03:52:49.976428+00:00",
+ "actualizado": "2026-11-25T16:32:04.407895+00:00",
  "noticias": [
   {
    "titulo": "Motociclista de 15 años resulta lesionado tras accidente en la carretera CosamaloapanTuxtepec",
@@ -9,6 +9,15 @@
    "categoria": "Seguridad",
    "url": "https://imagendeveracruz.mx/policiaca/motociclista-de-15-anos-resulta-lesionado-tras-accidente-en-la-carretera-cosamaloapantuxtepec-20261125-0001.html",
    "imagen": "http://www.bing.com/th?id=ONUT.I3fF6oEzBCMtYjiWhnFKiQ&pid=News"
+  },
+  {
+   "titulo": "Miércoles con lluvias; mayores acumulados en sur y zonas montañosas de Veracruz",
+   "resumen": "Resumen Durante este miércoles la masa de aire ártico asociada al frente frío número 8 cubrirá el norte, noreste, centro y oriente del territorio nacional, mientras tanto, en el suroeste del Golfo de ...",
+   "fuente": "Al Calor Político",
+   "fecha": "2026-11-24T15:59:00+00:00",
+   "categoria": "Región",
+   "url": "https://www.alcalorpolitico.com/informacion/miercoles-con-lluvias-mayores-acumulados-en-sur-y-zonas-montaniosas-de-veracruz-453986.html",
+   "imagen": "http://www.bing.com/th?id=ONUT.MBh69w3N4TzWf3Z3GBtQoA&pid=News"
   },
   {
    "titulo": "Veracruz se prepara para fuertes vientos, lluvias y heladas por frente frío 8",
@@ -351,15 +360,6 @@
    "categoria": "Seguridad",
    "url": "https://latinus.us/mexico/2026/11/14/los-pinas-grupo-criminal-ligado-al-cjng-extiende-la-violencia-en-veracruz-con-secuestros-cobros-de-piso-y-desapariciones-182386.html",
    "imagen": "http://www.bing.com/th?id=ONUT.IqqFMAKQdDok6oapeuEitQ&pid=News"
-  },
-  {
-   "titulo": "Norte en Veracruz: Protección Civil pronostica rachas de viento de más de 70 km/h en próximos días y alerta por nuevo frente frío",
-   "resumen": "El frente frío número 5 continuará generando lluvias y viento en territorio veracruzano antes de debilitarse sobre el suroeste del Golfo de México ...",
-   "fuente": "Imagen de Veracruz",
-   "fecha": "2026-11-13T14:05:00+00:00",
-   "categoria": "Región",
-   "url": "https://imagendeveracruz.mx/veracruz/norte-en-veracruz-proteccion-civil-pronostica-rachas-de-viento-de-mas-de-70-kmh-en-proximos-dias-y-alerta-por-nuevo-frente-frio-20261113-0068.html",
-   "imagen": "http://www.bing.com/th?id=ONUT.0Sq0QB7mAbwu5tIS0KwfbA&pid=News"
   }
  ]
 }
