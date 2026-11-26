@@ -1,6 +1,24 @@
 {
- "actualizado": "2026-11-26T11:43:28.705958+00:00",
+ "actualizado": "2026-11-26T20:44:11.719414+00:00",
  "noticias": [
+  {
+   "titulo": "Aire ártico prolonga el frío en Oaxaca y Veracruz; persistirán efectos en la Cuenca del Papaloapan",
+   "resumen": "➡️ El frente frío número 8 dejará de afectar territorio mexicano, pero la masa de aire ártico asociada mantendrá el descenso de temperaturas en regiones del oriente y sureste del país. ➡️ Se prevén ra ...",
+   "fuente": "El Piñero",
+   "fecha": "2026-11-26T09:26:00+00:00",
+   "categoria": "Región",
+   "url": "https://www.elpinero.mx/aire-artico-prolonga-el-frio-en-oaxaca-y-veracruz-persistiran-efectos-en-la-cuenca-del-papaloapan/",
+   "imagen": "http://www.bing.com/th?id=ONUT.W7322tWqevZGQ5CscSldww&pid=News"
+  },
+  {
+   "titulo": "Sergio Goyri aparece en los Tuxtlas y en la Cuenca del Papaloapan",
+   "resumen": "26/11/2026 *Filmarán una película en la región, lo que atraería inversión a ciudades como Tlacotalpan y Santiago Tuxtla Rodrigo Barranco Déctor ...",
+   "fuente": "urbisveracruz",
+   "fecha": "2026-11-26T04:22:00+00:00",
+   "categoria": "Región",
+   "url": "https://urbisveracruz.com.mx/es/article/21862/sergio-goyri-aparece-en-los-tuxtlas-y-en-la-cuenca-del-papaloapan",
+   "imagen": "https://urbisveracruz.com.mx/imgs/post/images/Screenshot_20261125_203546_Facebook.jpg"
+  },
   {
    "titulo": "Cae parte de la fachada del antiguo Cine Río en Cosamaloapan; bomberos acordonan la zona",
    "resumen": "El incidente ocurrió este miércoles sobre la calle Ruiz Cortines; elementos de Bomberos de Cosamaloapan delimitaron el perímetro para prevenir accidentes ...",
@@ -342,24 +360,6 @@
    "categoria": "Región",
    "url": "https://www.aztecaveracruz.com/tendencia/captan-al-pterodactilo-volando-sobre-el-rio-papaloapan-tras-fuertes-lluvias-asi-lo-grabaron-video/",
    "imagen": "http://www.bing.com/th?id=ONUT.P6SZFOetgLuQj8qrRrPomg&pid=News"
-  },
-  {
-   "titulo": "Puerto de Veracruz, cerrado a la navegación por Norte",
-   "resumen": "Veracruz Puerto | La Capitanía de Puerto de Veracruz informó que permanecen cerradas las bahías Norte y Sur a la navegación mayor y menor ...",
-   "fuente": "xeu noticias",
-   "fecha": "2026-11-16T22:36:00+00:00",
-   "categoria": "Región",
-   "url": "https://xeu.mx/veracruz/1440573/puerto-de-veracruz-cerrado-a-la-navegacin-por-norte",
-   "imagen": "http://www.bing.com/th?id=ONUT.pIc51kZ-233m3WBtO_xk_A&pid=News"
-  },
-  {
-   "titulo": "Auto embiste a empleada de Coppel en Cosamaloapan, Veracruz",
-   "resumen": "La mujer salió de la tienda por su hora de comida cuando fue impactada sobre el bulevar Miguel Alemán en Cosamaloapan ...",
-   "fuente": "Imagen de Veracruz",
-   "fecha": "2026-11-16T16:17:00+00:00",
-   "categoria": "Región",
-   "url": "https://imagendeveracruz.mx/policiaca/auto-embiste-a-empleada-de-coppel-en-cosamaloapan-veracruz-20261116-0060.html",
-   "imagen": "http://www.bing.com/th?id=ONUT.IkyvtBk8l-7ZjW97VslPtQ&pid=News"
   }
  ]
 }
