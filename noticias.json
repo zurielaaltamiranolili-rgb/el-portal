@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-28T00:53:40.663826+00:00",
+ "actualizado": "2026-11-28T11:11:21.524008+00:00",
  "noticias": [
   {
    "titulo": "Detienen en Boca del Río a “Pepe Chiunti”, excandidato de Movimiento Ciudadano por Cosamaloapan",
@@ -36,6 +36,15 @@
    "categoria": "Región",
    "url": "https://www.elpinero.mx/tormenta-invernal-y-aire-artico-mantienen-condiciones-de-frio-y-lluvias-en-oaxaca-veracruz-y-la-cuenca-del-papaloapan/",
    "imagen": "http://www.bing.com/th?id=ONUT.MbXtrDgpFIZTqZMav3Z--w&pid=News"
+  },
+  {
+   "titulo": "Javier Herrera Borunda; Cosamaloapan podría ser la sede de su segundo informe",
+   "resumen": "En el equipo de logística del diputado federal veracruzano del Partido Verde Ecologista de México (PVEM), Javier Octavio Herrera Borunda, ya se afinan los detalles de lo que será su segundo informe de ...",
+   "fuente": "cambiodigitalnoticias",
+   "fecha": "2026-11-27T06:32:00+00:00",
+   "categoria": "Región",
+   "url": "https://cambiodigitalnoticias.com/javier-herrera-borunda-cosamaloapan-podria-ser-la-sede-de-su-segundo-informe/",
+   "imagen": "http://www.bing.com/th?id=ONUT.Aa1PonjOZR_8qfsPfVKrPg&pid=News"
   },
   {
    "titulo": "Zafra en Veracruz: captan a decenas de conejos y ratones salir de los campos tras la quema de cañales",
@@ -351,15 +360,6 @@
    "categoria": "Región",
    "url": "https://cambiodigitalnoticias.com/el-rio-papaloapan-el-gigante-veracruzano-donde-la-marea-puede-hacer-que-el-agua-avance-en-sentido-contrario/",
    "imagen": "http://www.bing.com/th?id=ONUT.GCYKqUF9FR6iAciHyb39Wg&pid=News"
-  },
-  {
-   "titulo": "Clima en Veracruz: temperaturas, viento y lluvias para este miércoles",
-   "resumen": "El frente frío número 6 mantendrá condiciones meteorológicas variables en Veracruz durante este miércoles 18 de noviembre. Mientras el viento del ...",
-   "fuente": "MEGANOTICIAS",
-   "fecha": "2026-11-18T06:21:00+00:00",
-   "categoria": "Región",
-   "url": "https://www.meganoticias.mx/veracruz/noticia/clima-en-veracruz-temperaturas-viento-y-lluvias-para-este-mi%C3%A9rcoles/789724",
-   "imagen": "http://www.bing.com/th?id=ONUT.7kKvZ5gU1i8Hh5UWklSemg&pid=News"
   }
  ]
 }
